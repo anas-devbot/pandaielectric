@@ -1,0 +1,4170 @@
+{
+  "metadata": {
+    "title": "Garis Panduan Pendawaian Elektrik Pepasangan Domestik",
+    "publisher": "Suruhanjaya Tenaga",
+    "publication_year": 2022,
+    "edition": "Edisi Kedua (GP/ST/No.39/2024)",
+    "isbn": "978-967-2085-11-9"
+  },
+  "sections": [
+    {
+      "id": "Garis Panduan",
+      "title": "Garis Panduan",
+      "subsections": [],
+      "text": "Garis Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Garis Panduan",
+      "title": "Garis Panduan",
+      "subsections": [],
+      "text": "i\nCETAKAN PERTAMA [2022]\n© Hakcipta terpelihara. Tidak dibenarkan mengeluar ulang mana-mana bahagian isi kandungan\nbuku ini dalam apa jua bentuk dan dengan apa cara pun sama ada secara elektronik, fotokopi,\nmekanik, rakaman atau lain-lain sebelum mendapat izin bertulis daripada Suruhanjaya Tenaga.\nUntuk sebarang petikan maklumat dari terbitan ini, kenyataan berikut hendaklah disertakan:\n“Sumber: Suruhanjaya Tenaga”.\nDiterbitkan oleh:"
+    },
+    {
+      "id": "Suruhanjaya Tenaga (Energy Commission)",
+      "title": "Suruhanjaya Tenaga (Energy Commission)",
+      "subsections": [],
+      "text": "No. 12, Jalan Tun Hussein, Presint 2,\n62100 Putrajaya, Malaysia\nT : (603) 8870 8500\nF : (603) 8888 8637\nwww.st.gov.my\nISBN: 978-967-2085-11-9\nNombor Penerbitan ST: ST(P)04/02/2024\nHarga: RM10.00"
+    },
+    {
+      "id": "Dicetak Di Malaysia",
+      "title": "Dicetak Di Malaysia",
+      "subsections": [],
+      "text": "Garis Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Kawalan Dokumen",
+      "title": "Kawalan Dokumen",
+      "subsections": []
+    },
+    {
+      "id": "Versi",
+      "title": "Versi",
+      "subsections": []
+    },
+    {
+      "id": "No.",
+      "title": "No.",
+      "subsections": []
+    },
+    {
+      "id": "Pendaftaran",
+      "title": "Pendaftaran",
+      "subsections": [],
+      "text": "Edisi Pertama GP/ST/No.29/2021\nEdisi Kedua\nGP/ST/No.39/2024"
+    },
+    {
+      "id": "Tarikh",
+      "title": "Tarikh",
+      "subsections": []
+    },
+    {
+      "id": "Semakan",
+      "title": "Semakan",
+      "subsections": []
+    },
+    {
+      "id": "Disemak Oleh",
+      "title": "Disemak Oleh",
+      "subsections": []
+    },
+    {
+      "id": "Organisasi",
+      "title": "Organisasi",
+      "subsections": [],
+      "text": "1 Disember 2022\nJabatan Kawal\nSelia Keselamatan,\nJabatan UndangUndang\nSuruhanjaya\nTenaga\n28 Jun 2024\nJabatan Kawal\nSelia Keselamatan,\nJabatan UndangUndang\nSuruhanjaya\nTenaga\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\nGARIS PANDUAN PENDAWAIAN ELEKTRIK PEPASANGAN DOMESTIK"
+    },
+    {
+      "id": "Gp/St/No.39/2024",
+      "title": "Gp/St/No.39/2024",
+      "subsections": [],
+      "text": "PADA menjalankan kuasa yang diberikan oleh seksyen 50C Akta Bekalan Elektrik 1990 [Akta\n447] Suruhanjaya mengeluarkan garis panduan yang berikut.\nNama dan Permulaan Kuat Kuasa"
+    },
+    {
+      "id": "1",
+      "title": "Garis panduan ini bolehlah dinamakan sebagai Garis Panduan Pendawaian Elektrik",
+      "subsections": [],
+      "text": "Pepasangan Domestik."
+    },
+    {
+      "id": "2",
+      "title": "Garis Panduan ini hendaklah mula berkuat kuasa pada tarikh",
+      "subsections": [],
+      "text": "didaftarkan.\nGaris Panduan ini\nTujuan"
+    },
+    {
+      "id": "3",
+      "title": "Garis Panduan ini merupakan panduan kepada semua pendawai dan kontraktor elektrik",
+      "subsections": [],
+      "text": "bagi maksud pendawaian elektrik di pepasangan domestik sebagaimana yang dikehendaki\ndi dalam Peraturan-Peraturan Elektrik 1994 [P.U.(A) 38/1994].\nPindaan"
+    },
+    {
+      "id": "4",
+      "title": "Suruhanjaya boleh mengubah, mengkaji semula atau membatalkan Garis Panduan ini ini",
+      "subsections": [],
+      "text": "pada bila-bila masa yang difikirkan perlu."
+    },
+    {
+      "id": "5",
+      "title": "Garis Panduan Pendawaian Elektrik Pepasangan Domestik dengan nombor pendaftaran",
+      "subsections": [],
+      "text": "GP/ST/No. 29/2021 adalah dibatalkan.\nTarikh: 1 Julai 2024\nKetua Pegawai Eksekutif\nSuruhanjaya Tenaga\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Kandungan",
+      "title": "Kandungan",
+      "subsections": []
+    },
+    {
+      "id": "Pengenalan",
+      "title": "Pengenalan",
+      "subsections": []
+    },
+    {
+      "id": "1",
+      "title": "OBJEKTIF",
+      "subsections": []
+    },
+    {
+      "id": "2",
+      "title": "SKOP",
+      "subsections": []
+    },
+    {
+      "id": "3",
+      "title": "TAFSIRAN",
+      "subsections": []
+    },
+    {
+      "id": "4",
+      "title": "KEPERLUAN PERUNDANGAN",
+      "subsections": []
+    },
+    {
+      "id": "5",
+      "title": "SISTEM BEKALAN",
+      "subsections": [
+        {
+          "id": "5.1",
+          "title": "6.",
+          "subsections": []
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "8.",
+      "subsections": []
+    },
+    {
+      "id": "9",
+      "title": "10.",
+      "subsections": [],
+      "text": "Spesifikasi Bekalan Elektrik\n1\n2\n2\n2\n4\n5\n6"
+    },
+    {
+      "id": "Pendawaian Elektrik",
+      "title": "Pendawaian Elektrik",
+      "subsections": [
+        {
+          "id": "6.1",
+          "title": "Merancang Kerja-Kerja Pendawaian",
+          "subsections": [],
+          "text": "10"
+        },
+        {
+          "id": "6.2",
+          "title": "Pendawaian Elektrik",
+          "subsections": [],
+          "text": "13"
+        },
+        {
+          "id": "6.3",
+          "title": "Jarak Selamat Pendawaian Elektrik Kediaman",
+          "subsections": [],
+          "text": "19"
+        }
+      ],
+      "text": "9"
+    },
+    {
+      "id": "Sistem Kawalan Dan Perlindungan Pendawaian",
+      "title": "Sistem Kawalan Dan Perlindungan Pendawaian",
+      "subsections": [
+        {
+          "id": "7.1",
+          "title": "Pemilihan Sistem Kawalan dan Perlindungan",
+          "subsections": [],
+          "text": "Pendawaian\n22"
+        },
+        {
+          "id": "7.2",
+          "title": "Pengasingan dan Pensuisan",
+          "subsections": [],
+          "text": "22"
+        },
+        {
+          "id": "7.3",
+          "title": "Perlindungan",
+          "subsections": [],
+          "text": "22"
+        }
+      ],
+      "text": "21"
+    },
+    {
+      "id": "Pemilihan Kabel",
+      "title": "Pemilihan Kabel",
+      "subsections": [
+        {
+          "id": "8.1",
+          "title": "Pemilihan Jenis Kabel Pendawaian",
+          "subsections": [],
+          "text": "28"
+        },
+        {
+          "id": "8.2",
+          "title": "Faktor-Faktor yang Berkaitan dengan Keupayaan Kabel",
+          "subsections": [],
+          "text": "Membawa Arus\n29"
+        },
+        {
+          "id": "8.3",
+          "title": "Penggunaan Kadaran Luas Keratan Rentas Minimum",
+          "subsections": [],
+          "text": "Konduktor Pendawaian\n29"
+        },
+        {
+          "id": "8.4",
+          "title": "Penggunaan Kadaran Luas Keratan Rentas Minimum",
+          "subsections": [],
+          "text": "Konduktor Pelindung Berbanding dengan Luas Keratan\nRentas Konduktor Fasa\n29"
+        },
+        {
+          "id": "8.5",
+          "title": "Kehendak Kod Warna Konduktor dan Kabel",
+          "subsections": [],
+          "text": "30"
+        },
+        {
+          "id": "8.6",
+          "title": "Keperluan Minimum Penebat Konduktor dan Jenis",
+          "subsections": [],
+          "text": "Pendawaian\n31"
+        },
+        {
+          "id": "8.7",
+          "title": "Pindaan Kod Warna pada Konduktor Fasa",
+          "subsections": [],
+          "text": "31"
+        }
+      ],
+      "text": "27"
+    },
+    {
+      "id": "Aksesori Elektrik",
+      "title": "Aksesori Elektrik",
+      "subsections": [
+        {
+          "id": "9.1",
+          "title": "Pemilihan Aksesori Pendawaian",
+          "subsections": [],
+          "text": "34"
+        }
+      ],
+      "text": "33"
+    },
+    {
+      "id": "Pembumian Pepasangan Elektrik",
+      "title": "Pembumian Pepasangan Elektrik",
+      "subsections": [
+        {
+          "id": "10.1",
+          "title": "38",
+          "subsections": [],
+          "text": "Pembumian\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+        }
+      ],
+      "text": "37"
+    },
+    {
+      "id": "11",
+      "title": "10.2",
+      "subsections": [
+        {
+          "id": "10.3",
+          "title": "Jenis dan Fungsi Aksesori Pembumian",
+          "subsections": [],
+          "text": "38"
+        },
+        {
+          "id": "10.4",
+          "title": "Penyusunan Pembumian Menggunakan Sistem TT",
+          "subsections": [],
+          "text": "40"
+        },
+        {
+          "id": "10.5",
+          "title": "Bahagian yang Perlu Dibumikan",
+          "subsections": [],
+          "text": "41"
+        },
+        {
+          "id": "10.6",
+          "title": "Bahagian yang Tidak Perlu Dibumikan",
+          "subsections": [],
+          "text": "41"
+        },
+        {
+          "id": "10.7",
+          "title": "Penamatan di Bumi",
+          "subsections": [],
+          "text": "42"
+        },
+        {
+          "id": "10.8",
+          "title": "Rintangan Elektrod Bumi",
+          "subsections": [],
+          "text": "42"
+        }
+      ],
+      "text": "Pembahagian Pembumian\n38"
+    },
+    {
+      "id": "Pemeriksaan Dan Ujian Pendawaian Elektrik",
+      "title": "Pemeriksaan Dan Ujian Pendawaian Elektrik",
+      "subsections": [
+        {
+          "id": "11.1",
+          "title": "Kehendak Perundangan",
+          "subsections": [],
+          "text": "44"
+        },
+        {
+          "id": "11.2",
+          "title": "Pengujian Pepasangan Pendawaian",
+          "subsections": [],
+          "text": "44\n11.2.1 Ujian Keterusan\n45\n11.2.2 Ujian Rintangan Penebatan\n47\n11.2.3 Ujian Kekutuban\n48\n11.2.4 Ujian Rintangan Elektrod Bumi\n49\n11.2.5 Ujian Peranti Arus Baki\n51\n11.2.6 Ujian Galangan Gelung Bumi (Earth Loop\nImpedance Test)\n52"
+        }
+      ],
+      "text": "43"
+    },
+    {
+      "id": "Lampiran",
+      "title": "Lampiran",
+      "subsections": [],
+      "text": "53\nSenarai Lampiran\n54"
+    },
+    {
+      "id": "Lampiran I",
+      "title": "Lampiran I",
+      "subsections": [],
+      "text": "Keperluan Keselamatan Kerja-Kerja Pendawaian\nElektrik di Pepasangan Domestik\n55"
+    },
+    {
+      "id": "Lampiran II",
+      "title": "Lampiran II",
+      "subsections": [],
+      "text": "Jadual Rujukan Kaedah Pemasangan untuk\nKeupayaan Membawa Arus\n(Table B.52.1 IEC 60364-5-52 2009)\n58"
+    },
+    {
+      "id": "Lampiran III",
+      "title": "Lampiran III",
+      "subsections": [],
+      "text": "Jadual Keupayaan Membawa Arus (Single Core Cable)\n(Table B.52.2 IEC 60364-5-52 2009)\n59"
+    },
+    {
+      "id": "Lampiran IV",
+      "title": "Lampiran IV",
+      "subsections": [],
+      "text": "Jadual Susut Voltan (Single Core Cable) Table 4D1B\n60"
+    },
+    {
+      "id": "Lampiran V",
+      "title": "Lampiran V",
+      "subsections": [],
+      "text": "Jadual Keupayaan Membawa Arus (Multicore Cable)\n(Table B.52.4 IEC 60364-5-52 2009)\n61"
+    },
+    {
+      "id": "Lampiran VI",
+      "title": "Lampiran VI",
+      "subsections": [],
+      "text": "Jadual Susut Voltan (Multicore Cable) Table 4D4B\n62"
+    },
+    {
+      "id": "Lampiran VII",
+      "title": "Lampiran VII Contoh Pengiraan Susut Voltan (Voltage Drop)",
+      "subsections": [],
+      "text": "63"
+    },
+    {
+      "id": "Lampiran VIII",
+      "title": "Lampiran VIII Borang G (Perakuan Penyeliaan dan Penyiapan)",
+      "subsections": [],
+      "text": "64"
+    },
+    {
+      "id": "Lampiran IX",
+      "title": "Lampiran IX",
+      "subsections": [],
+      "text": "Borang H (Perakuan Pengujian)\n66"
+    },
+    {
+      "id": "Lampiran X",
+      "title": "Lampiran X",
+      "subsections": [],
+      "text": "Simbol\n68\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Pengenalan",
+      "title": "Pengenalan",
+      "subsections": [],
+      "text": "1\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "1",
+      "title": "OBJEKTIF",
+      "subsections": [
+        {
+          "id": "1.1",
+          "title": "Objektif pengeluaran Garis Panduan ini oleh Suruhanjaya Tenaga adalah seperti yang",
+          "subsections": [],
+          "text": "berikut:\n(a) Untuk dijadikan sebagai panduan ringkas dan padat kepada semua orang kompeten,\nkontraktor elektrik dan jurutera perunding yang terlibat dalam kerja-kerja pendawaian\nuntuk memastikan sistem pendawaian elektrik di pepasangan domestik dibuat\ndengan sempurna dan selamat.\n(b) Untuk memastikan bahawa pendawaian elektrik kediaman memenuhi semua\nkehendak yang ditetapkan di bawah Akta Bekalan Elektrik 1990 [Akta 447] dan apa-apa\nperundangan subsidiari yang dibuat di bawahnya dan beberapa Standard Malaysia\nseperti MS IEC 60364 ‘Electrical Installations of Building’, MS 1979 ‘Electrical Installations\nof Building – Code of Practice’, MS IEC 62305 ‘Protection Against Lightning’, MS IEC 61643\n‘Low voltage surge protection’ dan MS IEC 60335 berkaitan pagar elektrik; dan\n(c) Untuk menetapkan standard dan spesifikasi minimum dalam reka bentuk,\npemasangan, pemeriksaan, pengujian, penyeliaan, operasi dan penyelenggaraan\nuntuk memastikan sistem pendawaian elektrik adalah selamat untuk digunakan."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "SKOP",
+      "subsections": [
+        {
+          "id": "2.1",
+          "title": "Garis Panduan ini terpakai kepada pemunya, penyewa atau pengendali pepasangan",
+          "subsections": [],
+          "text": "elektrik dan mana-mana pekerjanya atau pekerja jurutera perunding, kontraktor atau\nsubkontraktor yang dilantik untuk menjalankan kerja di pepasangan yang melibatkan hal\nperkara seperti yang berikut:\n(a) pendawaian baharu pepasangan bangunan kediaman;\n(b) pendawaian semula pepasangan bangunan kediaman; atau\n(c) pepasangan struktur khas dan seumpamanya untuk kerja-kerja reka bentuk,\npemasangan, penyeliaan, pemeriksaan, pengujian, operasi dan penyelenggaraan sistem\npendawaian elektrik."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "TAFSIRAN",
+      "subsections": [
+        {
+          "id": "3.1",
+          "title": "Dalam Garis Panduan ini, melainkan jika konteksnya menghendaki makna yang lain,",
+          "subsections": [],
+          "text": "terma yang digunakan hendaklah mempunyai maksud yang sama seperti dalam Akta\ndan perundangan subsidiari yang dibuat di bawahnya:\n“Akta”\nertinya Akta Bekalan Elektrik 1990, [Akta 447]\n“Jurutera Perunding”\nertinya Jurutera Perunding Elektrik yang\nberdaftar dengan Lembaga Jurutera Malaysia.\n“Kontraktor Elektrik”\nertinya mana-mana orang yang memegang\nPerakuan Pendaftaran sebagai seorang\nKontraktor Elektrik yang dikeluarkan di bawah\nPeraturan 75 PPE 1994.\n2\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n“Miniature\n(MCB)”\nCircuit\nBreaker\nertinya suatu alat yang berkemampuan\nmenyambung dan memutuskan bekalan\nsecara automatik apabila berlaku kerosakan\nelektrik.\n“Orang Kompeten”\nertinya mana-mana orang yang memegang\nsuatu\nperakuan\nkekompetenan\nyang\ndikeluarkan\noleh\nSuruhanjaya\nuntuk\nmelaksanakan kerja mengikut sekatan, jika\nada, yang dinyatakan dalam perakuan itu.\n“Pendawai”\nertinya mana-mana orang yang memegang\nPerakuan Kekompetenan sebagai Pendawai\nyang dikeluarkan di bawah Peraturan 50 PPE"
+        }
+      ]
+    },
+    {
+      "id": "1994",
+      "title": "“Pepasangan Domestik”",
+      "subsections": [
+        {
+          "id": "3.2",
+          "title": "Sekiranya terdapat percanggahan penggunaan terma atau peruntukan dalam Garis",
+          "subsections": [],
+          "text": "Panduan ini, Akta dan peraturan-peraturan yang dibuat di bawahnya hendaklah mengatasi\nGaris Panduan ini."
+        },
+        {
+          "id": "3.3",
+          "title": "Sekiranya terdapat percanggahan penggunaan terma atau peruntukan dalam Garis",
+          "subsections": [],
+          "text": "Panduan ini dan yang terkandung dalam mana-mana Standard Malaysia atau International\nElectrotechnical Commission (IEC) yang digunapakai, terma atau peruntukan dalam Garis\nPanduan ini hendaklah mengatasi Standard Malaysia atau IEC."
+        }
+      ],
+      "text": "ertinya apa-apa pepasangan di tempat\nkediaman persendirian yang tidak digunakan\ndalam mana-mana hotel atau rumah\ntumpangan atau bagi maksud menjalankan\napa-apa perniagaan, perdagangan, profesion\natau perkhidmatan.\n“Peranti Perlindungan\nPusuan / Surge Protection\nDevice (SPD)”\nertinya peranti yang bertujuan melindungi\nkelengkapan / peralatan elektrik daripada\nsambaran kilat yang mendadak (lightning\nsurge) atau voltan berlebihan yang mendadak\n(overvoltage surge).\n“Peranti Pelindung Arus\nLebih (PPAL)“\nertinya peranti bagi perlindungan arus beban\nlebih dan arus litar pintas untuk melindungi\npertambahan suhu di kabel yang boleh\nmengakibatkan kerosakan pada penebat\nkabel.\n“Peranti Arus Baki (PAB)”\nertinya peranti sejenis pemutus litar bocor\nke bumi kendalian arus yang memutuskan\nbekalan elektrik apabila ia mengesan arus\nelektrik yang tidak seimbang antara arus pada\nkabel hidup dengan arus pada kabel neutral.\n“PPE 1994”\nertinya Peraturan-Peraturan Elektrik 1994\n[P.U.(A) 38/1994].\n“Separated Extra Low Voltage\n(SELV)”\nertinya sistem elektrik di mana voltan tidak\ndapat melebihi Extra Low Voltage (ELV) di\nbawah keadaan normal dan di bawah keadaan\nkesalahan tunggal (single fault), termasuk\nkerosakan bumi dalam litar lain.\n3\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n“Sistem TT”\nertinya sistem dimana pembumian pengguna\ndibuat secara berasingan daripada sistem\npembumian pembekal melalui pengalir bumi\nke elektrod bumi pengguna yang ditanam ke\ndalam tanah.\n“Sistem TN-S”\nertinya sistem dimana pengalir neutral (N) dan\npengalir perlindungan (PE) berasingan bagi\nkeseluruhan sistem.\n“Permintaan Beban\nTertinggi / Maximum\nDemand (MD)”\nertinya tahap permintaan elektrik tertinggi\nyang dipantau dalam jangka masa tertentu\nbiasanya untuk jangka waktu sebulan.\n“Arus Terus / Direct Current\n(DC)”\nertinya merujuk kepada arus elektrik yang\nmengalir sehala.\n“Arus Ulang-Alik / Alternating\nCurrent (AC)’’\nertinya satu bentuk arus elektrik yang arah\nalirannya berulang-alik.\n“Rated Conditional Short Circuit\nCurrent (Inc)”\nertinya kemampuan RCCB yang dilindungi oleh\nAlat Pelindung Litar Pintas untuk bertahan\nketika litar pintas berlaku.\n“Suruhanjaya”\nertinya Suruhanjaya Tenaga yang ditubuhkan\ndi bawah Akta Suruhanjaya Tenaga 2001 [Akta\n610]"
+    },
+    {
+      "id": "4",
+      "title": "KEPERLUAN PERUNDANGAN",
+      "subsections": [
+        {
+          "id": "4.1",
+          "title": "Semua kerja pendawaian elektrik hendaklah dilakukan oleh Kontraktor Elektrik yang",
+          "subsections": [],
+          "text": "masih berdaftar dengan Suruhanjaya berdasarkan peruntukan di bawah Akta dan PPE."
+        },
+        {
+          "id": "4.2",
+          "title": "Semua pelan, lukisan dan spesifikasi pendawaian elektrik hendaklah disediakan dan",
+          "subsections": [],
+          "text": "dikemukakan oleh orang kompeten sebagaimana yang diperuntukkan di bawah peraturan"
+        }
+      ]
+    },
+    {
+      "id": "65 Ppe.",
+      "title": "65 Ppe.",
+      "subsections": [],
+      "text": "4\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Sistem",
+      "title": "Sistem",
+      "subsections": []
+    },
+    {
+      "id": "Bekalan",
+      "title": "Bekalan",
+      "subsections": [],
+      "text": "5\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "5",
+      "title": "SISTEM BEKALAN",
+      "subsections": [
+        {
+          "id": "5.1",
+          "title": "Spesifikasi Bekalan Elektrik",
+          "subsections": [],
+          "text": "Semua kelengkapan elektrik yang digunakan hendaklah sesuai dengan spesifikasi bekalan\nelektrik yang dibekalkan kepada pengguna di kediaman mengikut standard MS IEC 60038\nseperti yang berikut:\n(a)\nBekalan voltan nominal Fasa Tunggal 230 Volt arus ulang-alik dengan julat +10%, -6%;\natau\n(b)\nBekalan voltan nominal Fasa Tiga 400 Volt arus ulang-alik dengan julat +10%, -6%;\n(c)\nFrekuensi yang dibenarkan adalah 50Hz dengan julat ± 1%; dan\n(d)\nJenis pembumian (Sistem TT dan TN-S) seperti Rajah 5.1, 5.2 dan 5.3.\nPunca Bekalan"
+        }
+      ]
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "L2",
+      "title": "L2",
+      "subsections": []
+    },
+    {
+      "id": "L3",
+      "title": "L3",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": [],
+      "text": "Pepasangan Pengguna\nKelengkapan Elektrik di dalam\nPepasangan Pengguna\nBahagian-Bahagian Konduktor\nTerdedah\nPemasangan Elektrod Bumi\nRajah 5.1: Contoh Sistem TT (Fasa Tunggal)\nPunca Bekalan"
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "L2",
+      "title": "L2",
+      "subsections": []
+    },
+    {
+      "id": "L3",
+      "title": "L3",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": [],
+      "text": "Pepasangan Pengguna\nKelengkapan Elektrik di dalam\nPepasangan Pengguna\nBahagian-Bahagian Konduktor\nTerdedah\nPemasangan Elektrod Bumi\nRajah 5.2: Contoh Sistem TT (Fasa Tiga)\nPunca Bekalan\n6"
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "L2",
+      "title": "L2",
+      "subsections": []
+    },
+    {
+      "id": "L3",
+      "title": "L3",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": [],
+      "text": "Bahagian-Bahagian Konduktor\nTerdedah\nPemasangan Elektrod Bumi\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\nPunca Bekalan\nPepasangan Pengguna"
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "L2",
+      "title": "L2",
+      "subsections": []
+    },
+    {
+      "id": "L3",
+      "title": "L3",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": [],
+      "text": "Konduktor\nPelindung\nKelengkapan\nElektrik di\ndalam\nPepasangan\nPengguna\nBahagian-Bahagian\nKonduktor Terdedah\nRajah 5.3: Contoh Sistem TN-S (Fasa Tunggal dan Fasa Tiga)\n7\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n8\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Pendawaian",
+      "title": "Pendawaian",
+      "subsections": []
+    },
+    {
+      "id": "Elektrik",
+      "title": "Elektrik",
+      "subsections": [],
+      "text": "9\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "6",
+      "title": "PENDAWAIAN ELEKTRIK",
+      "subsections": [
+        {
+          "id": "6.1",
+          "title": "Merancang Kerja-Kerja Pendawaian",
+          "subsections": [],
+          "text": "Sebelum kerja-kerja pendawaian dibuat, pendawai / kontraktor yang dilantik oleh\npemunya bangunan hendaklah merancang dan mengenal pasti kerja-kerja yang hendak\ndilakukan supaya hasil kerja kemas, teratur dan selamat untuk digunakan. Pendawai /\nkontraktor hendaklah:\n(a)\nMembuat lawatan tapak yang bertujuan untuk menentukan(i)\nkelengkapan elektrik yang sesuai digunakan;\n(ii)\npermintaan beban tertinggi;\n(iii)\nbekalan masuk, Fasa Tunggal atau Fasa Tiga;\n(iv)\njenis pendawaian; dan\n(v)\nsusun atur kelengkapan.\n(b)\nMengenal pasti keperluan beban pengguna.\nKeperluan beban pengguna boleh dikenal pasti berdasarkan anggaran\nkeluasan lantai bangunan. Setelah keperluan beban dikenal pasti, cadangan\nbeban, penempatan kelengkapan elektrik dan rekabentuk pelan pepasangan\nboleh disediakan.\n(c)\nMengira Permintaan Beban Tertinggi / Maximum Demand (MD).\n(i)\nAnggaran MD adalah bertujuan untuk menentukan spesifikasi kelengkapan\npendawaian seperti kabel, aksesori dan seterusnya menyediakan pelan\npepasangan elektrik.\n(ii)\nMengikut standard MS IEC 60364 bahagian 3 klausa 311, pengiraan permintaan\ntertinggi bagi setiap litar dilakukan bertujuan untuk memastikan rekabentuk\npepasangan yang ekonomi, berdaya harap dan dalam had susut voltan yang\ndibenarkan. Faktor Kepelbagaian / Diversity Factor (DF) dalam menentukan\npermintaan arus tertinggi juga perlu diambil kira.\n(iii) Pengiraan semua MD serta pemilihan DF bagi setiap litar perlu disediakan\ndengan lengkap oleh Jurutera Perunding atau kontraktor atau pendawai yang\nmempunyai sijil kompeten daripada Suruhanjaya. Hasil pengiraan ini dapat\nmenunjukkan keperluan bekalan pengguna sama ada untuk menggunakan\nsistem Fasa Tunggal atau Fasa Tiga serta dapat menentukan saiz dan jenis\nkabel yang diperlukan.\n(iv) Jadual Ketiga (Jadual A dan Jadual B), Peraturan 11(2), PPE 1994 boleh digunakan\nsebagai panduan untuk pengiraan MD bagi pepasangan domestik.\n(d)\nMengemukakan pelan, lukisan dan spesifikasi.\n(i)\nPelan lukisan dan spesifikasi hendaklah dikemukakan oleh orang kompeten\nsebagaimana yang diperuntukkan di bawah Peraturan 65, PPE 1994. Rujuk\nJadual 6.1.\n(ii)\nPunca sambungan bekalan elektrik yang akan dibekalkan kepada pengguna\nberdasarkan jumlah MD yang dipohon adalah seperti Jadual 6.2.\n10\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\nOrang Kompeten\nMenyediakan &\nMengemukakan Kepada\nHad Voltan / Ampere Pepasangan\nPendawai dengan Sekatan\nFasa Tunggal\nPemegang Lesen atau\npihak berkuasa bekalan\nVoltan Rendah Fasa Tunggal sahaja\nPendawai dengan Sekatan\nFasa Tiga\nPemegang Lesen atau\npihak berkuasa bekalan\nVoltan Rendah dan menerima elektrik\ndaripada pemegang lesen atau pihak\nberkuasa bekalan melalui gear suis\nterkadar 60 ampere dan kurang\nJadual 6.1: Orang Kompeten Mengemukakan Pelan, Lukisan dan Spesifikasi\nMD Oleh Pengguna\nVoltan\nBekalan\nPunca Sambungan Bekalan\n≤ 12 kVA"
+        }
+      ]
+    },
+    {
+      "id": "230 V",
+      "title": "230 V",
+      "subsections": [],
+      "text": "Talian Atas atau kabel bawah tanah\nVoltan Rendah\n> 12 kVA sehingga\n100 kVA"
+    },
+    {
+      "id": "400 V",
+      "title": "400 V",
+      "subsections": [],
+      "text": "Talian Atas Fasa Tiga atau kabel bawah tanah\nVoltan Rendah\n(bergantung kepada keupayaan punca bekalan)\n> 100 kVA sehingga\n350 kVA"
+    },
+    {
+      "id": "400 V",
+      "title": "400 V",
+      "subsections": [],
+      "text": "Kabel bawah tanah daripada pencawang /\nFeeder Pillar Pemegang Lesen\n(bergantung kepada keupayaan punca bekalan)\n> 350 kVA sehingga\n1,000 kVA"
+    },
+    {
+      "id": "400 V",
+      "title": "400 V",
+      "subsections": [
+        {
+          "id": "6.2",
+          "title": "Pendawaian Elektrik",
+          "subsections": [],
+          "text": "(a)\nPendawaian elektrik terdiri dari kelengkapan elektrik seperti kabel, suis utama,\nPemutus Litar Miniatur / Miniature Circuit Breaker (MCB) atau fius, Peranti Arus Baki\n(PAB) / Residual Current Device (RCD), poin lampu, poin kuasa, sistem perlindungan\nkilat dan lain-lain kelengkapan elektrik.\n(b)\nKadar arus PAB di downstream mestilah sama atau lebih daripada kadar arus\npemutus litar upstream terdekat.\n(c)\nBilangan soket alir keluar adalah bergantung kepada jenis litar dan keluasan lantai\nmaksimum bagi kawasan yang hendak dipasang peralatan tersebut. Perlu ada\nsimpanan bagi litar soket alir keluar.\n(d)\nPenggunaan papan agihan hendaklah berdasarkan kepada standard MS IEC 60670.\nPapan agihan juga hendaklah dipasang dengan suis utama berada pada jarak\nketinggian yang boleh dan mudah dicapai oleh orang dewasa.\n(e)\nPendawaian elektrik jenis permukaan hendaklah dilindungi oleh pembuluh atau\nsesalur dan menggunakan kabel jenis Polyvinyl Chloride / Polyvinyl Chloride + Circuit\nProtective Conductor (PVC / PVC + CPC).\n(f)\nPendawaian yang menggunakan PAB utama yang mempunyai time delay mestilah\ntidak melebihi 500ms (IEC 61008-1 Table 1).\n(g)\nSaiz kabel bagi pemanas air elektrik hendaklah merujuk kepada Guideline for the\nDesign, Installation, Inspection, Testing, Operation and Maintenance of Water Heater\nSystems (GP/ST/No.6/2016) yang diterbitkan oleh Suruhanjaya.\n(h)\nPemasangan Peranti Perlindungan Pusuan / Surge Protection Device (SPD) adalah\nbergantung kepada analisa penilaian risiko kilat (Rujuk MS IEC 62305) yang dijalankan\ndi pepasangan domestik tersebut.\n(i)\nRajah 6.2-6.5 adalah contoh lukisan skematik pendawaian elektrik bagi panduan\nsahaja dan reka bentuk pendawaian adalah tidak tertakluk kepada contoh yang\ndiberikan.\n13\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n(i)\nContoh lukisan skematik pendawaian elektrik bagi Fasa Tunggal:\n(aa) Pendawaian elektrik pengguna Fasa Tunggal contoh 1, Seperti Rajah 6.2."
+        }
+      ],
+      "text": "Kabel bawah tanah daripada pencawang baharu\nPemegang Lesen\nJadual 6.2: Punca Sambungan Bekalan yang Dibekalkan oleh Pemegang Lesen\nBerdasarkan MD yang Dimohon oleh Pengguna\n11\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n\u001b\u001a\u0019\n\u001b\u0018\u0017\u0016\u0015\u0019\n\u001b\u0014\u0019\u0018\u0013\n\u0012\u0015\n\u0011\u001a\u0010\u001a\u0014\u0018\u000f\u001a\n\u000e\u0018 \u0015\u001b\u0011\u001a\n\u001a\u001b\n\u001a\u0010\u001a\n\u001a\n\u0018 \u001a\u001a\u0019\n\u0004\u0015\n\u000f\u0015\u0011\u0014\u001a\u0019\u001a\n\u0018\u0012\u0015\u0016\u001a\n\u0018\u0012\u0015 \u001a\u0005\u001a\n\u000e\u001a\n\u0011\u001a\n\u0018\u0015\u0005\u0014\u0019\u001a\u0005\u0014\u0018\u001f\u0015\u0016\u0015\n\u000e\u0019\u001a\u001a\n\u0003\u0012\u0015\n\u0011\u001a\u0010\u001a\u0014\u001a\n\u0018\u0015\u0011\u0014\u001a\u0018\u0007\u0011\u001a\u0001\n\u0002\u0007\n\u001b\u001a\u0019\n\u0018\n\u0017\u0016\u0015\u0019\u0014\u0014\u0015\n\u0013\n\u0019\u0015\u0012\n\u0011\n\u0019\u0010\u001a\u000f\u001a\u0015\u001a\u0019\n\u000e\u001a\u0012\u001a\n\u0018 \u0019\u0014\u0014\u001a\n\u000e\u001a\u0012\u001a\n\u0018\u0015\u0014\u001a\n\u0012\u0015\u001a\u0005\u001a\n\u000e\u001a\n\u001a\b\u001a\u001b\u0006\n\u0007\n\u001a \u001a\b\u001a\n\u0012\u0015\u001b \u0014\n\u001a\u001a\n\u0007\u001b\u0006\u0005\u0018\u0004\u001a\u0019\u0005\u0014 \u0006\n\u0003\u0004\u0002\u0001\n\u0007\n\u001a\n\u001a\u001b\u0018\n\u001b\u001a\n\u000e\u0018\u0019\u0015\u0018\u0012\n\u0017\u001a\u0019\u0014\n\u0011\n\u0017\u0007 \b \u0019\u001a\u0019\n\u0006\u001a \u001a\u0019\n\u0005\n\u0006\u0016\u0017\u0015\u0006\n\u0004 \u0007\n\u0012\u0016\u0015\u0006\n\u001a\u0019\u0014\n\u0004\u0015\u0012\n\u0010\u0015\u001a\u0006\u001a\u0019\n\b\n\u0011\u0003\n\u0002\u0007\n\u0004\u0015\n\u000f\u0015\u0011\u0014\u001a\u0019\u001a\n\u0018 \u001a\u0011\u0006\u001a\u0016\u0018\u001f\u0015\u001b­\u001a\n\u0015\u001b­\u001a\u001f\u0015\u001b­\u001a\u0018\u0012\u0015\n\u0011\u001a\u0010\u001a\u0014\u001a\n\u0002\u0014 \u0006\u0016\u001a\u0019\u001a\n\u0012\u0015\n\u0011\n\u0019\n\u0015\u001a\u001a\u0019\n\b\n\u0011\n\u0019\u0010\u001a\u000f\u001a\u0015\n\u001a\u0014\u0019\u001a\n\u0002\u0007\n\u0012\u0015 \u0015\u001b\u0014\u0019\u0005\u001a\u001a\n\u0018\u0011\u001a\n\u0018\n\u0012\u0015\n\u000e\u0006­\u0014\u001a\n\u0018\n\u0012\u0015\u001a\u0005\u001a\n\u000e\u001a\n\u0018\n\u0007\n\u0003\u0012\u0015\n\u0011\u001a\u0010\u001a\u0014\u001a\n\u0015\u0011\u0014\u001a\u0018\u0007\u0011\u001a\u0001\n\u001b\u001a\n\u000e\u0018\u0018\u0018\n\u0002\u0014\u0019\u0015 \u0006\u0019\u001a\u0019\u001a\n\u0015\u001a\u0011\u001a\u0018\u0012\n\u0002\u0007\n\u0003\u0012\u0015\n\u0011\u001a\u0010\u001a\u0014\u001a\n\u0018 \u001a\b\u001a\u001b\u0006\u0018\u0018\u0015\u0011\u0014\u001a\u0018\u0007\u0011\u001a\n\u0002\u0015\n\u000e\u001a\n\u0018\u0012\u0015\u001b\n\u001a \u001a\b\u001a\n\u0018\u0004\u0002\u0001\n\u0007\n\u001b\u001a\n\u000e\u0018\u0018\u0018\u0018\u0002\u0014\u0005\u0014 \u001a\n\u0016\u0015\b\u0018\u0012\u0015 \u0006\n\u000f\u001a\u0018\u0012\u0015\n\u0011\u001a\u0010\u001a\u0014\u001a\n\u001a\u000f\u001a\u001b\u001a\n\u0018\u0002\u0015\n\u0005\u0014\n\u0018\u0011\u001a\n\u001a\n\u0011\u001a\n\u001a\n\u000e\u001a\n\u0018\u0012\u0015\u001b­\u001a\n­\u0014\u001a\n\u0016\u0015\b\u0018\u0012\u0015\n\u000e\u000e\u0006\n\u001a\n\u001a \u001a\n\u0012\u0018\u0004\u0015 \u001a\u0005\u001a\n\u000e\u0018\u0004\u0015\n\u0015\u001b\u0018\u0011\u001a\n\u0004\u0015 \u0015\u001b\u0014\u0018 \u0015\u0019\u001a\u0016\u001a\n\u0018\u0017\u0016\u0015\u0019\n\u001b\u0014\u0019\n\u0012\u0018 \u0018\u0012\u0015 \u0015\u000e\u001a\n\u000e\u0018\u0015\u0005\u0015\nRajah 6.1:  Carta Alir Merancang Pemasangan Pendawaian di Kediaman Bekalan\nFasa Tunggal dan Fasa Tiga\n12\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Pab",
+      "title": "Pab",
+      "subsections": []
+    },
+    {
+      "id": "40A/63A",
+      "title": "40A/63A",
+      "subsections": []
+    },
+    {
+      "id": "Dk",
+      "title": "Dk",
+      "subsections": [],
+      "text": "(100mA)"
+    },
+    {
+      "id": "6A",
+      "title": "6A",
+      "subsections": [],
+      "text": "2 X 1C, 1.5mm 2 PVC + CPC"
+    },
+    {
+      "id": "6A",
+      "title": "6A",
+      "subsections": [],
+      "text": "2 X 1C, 1.5mm PVC + CPC"
+    },
+    {
+      "id": "6A",
+      "title": "6A",
+      "subsections": [],
+      "text": "2 X 1C, 1.5mm PVC + CPC"
+    },
+    {
+      "id": "20A",
+      "title": "20A",
+      "subsections": [],
+      "text": "2 X 1C, 4mm 2 PVC + CPC\n2\n2\n2 X 1C, 4mm 2\nPVC + CPC"
+    },
+    {
+      "id": "20A",
+      "title": "20A",
+      "subsections": [],
+      "text": "10mA"
+    },
+    {
+      "id": "20A",
+      "title": "20A",
+      "subsections": []
+    },
+    {
+      "id": "Meter",
+      "title": "Meter",
+      "subsections": []
+    },
+    {
+      "id": "Bekalan Dari",
+      "title": "Bekalan Dari",
+      "subsections": []
+    },
+    {
+      "id": "Pemegang Lesen",
+      "title": "Pemegang Lesen",
+      "subsections": [],
+      "text": "UNIT PEMOTONG &"
+    },
+    {
+      "id": "Penghubung Neutral",
+      "title": "Penghubung Neutral",
+      "subsections": []
+    },
+    {
+      "id": "Lampu/Kipas",
+      "title": "Lampu/Kipas",
+      "subsections": []
+    },
+    {
+      "id": "Lampu/Kipas",
+      "title": "Lampu/Kipas",
+      "subsections": []
+    },
+    {
+      "id": "Loceng/Penggera",
+      "title": "Loceng/Penggera",
+      "subsections": []
+    },
+    {
+      "id": "Pendingin Hawa",
+      "title": "Pendingin Hawa",
+      "subsections": []
+    },
+    {
+      "id": "(Split Unit-Di Bawah 3Hp)",
+      "title": "(Split Unit-Di Bawah 3Hp)",
+      "subsections": []
+    },
+    {
+      "id": "Pemanas Air Elektrik",
+      "title": "Pemanas Air Elektrik",
+      "subsections": []
+    },
+    {
+      "id": "(Di Bawah 3570W-Dengan Suis Dk)",
+      "title": "(Di Bawah 3570W-Dengan Suis Dk)",
+      "subsections": []
+    },
+    {
+      "id": "Simpanan",
+      "title": "Simpanan",
+      "subsections": []
+    },
+    {
+      "id": "Suis Utama",
+      "title": "Suis Utama",
+      "subsections": []
+    },
+    {
+      "id": "Dk 63A",
+      "title": "Dk 63A",
+      "subsections": []
+    },
+    {
+      "id": "40/63A",
+      "title": "40/63A",
+      "subsections": []
+    },
+    {
+      "id": "Dk Mcb/Fius",
+      "title": "Dk Mcb/Fius",
+      "subsections": []
+    },
+    {
+      "id": "Spd",
+      "title": "Spd",
+      "subsections": []
+    },
+    {
+      "id": "Pab",
+      "title": "Pab",
+      "subsections": []
+    },
+    {
+      "id": "40A/63A",
+      "title": "40A/63A",
+      "subsections": []
+    },
+    {
+      "id": "Dk",
+      "title": "Dk",
+      "subsections": [],
+      "text": "(30mA)"
+    },
+    {
+      "id": "16A",
+      "title": "16A",
+      "subsections": [],
+      "text": "2 X 1C, 2.5mm 2 PVC + CPC"
+    },
+    {
+      "id": "16A",
+      "title": "16A",
+      "subsections": [],
+      "text": "2 X 1C, 2.5mm 2 PVC + CPC"
+    },
+    {
+      "id": "16A",
+      "title": "16A",
+      "subsections": [],
+      "text": "2 X 1C, 2.5mm PVC + CPC"
+    },
+    {
+      "id": "32A",
+      "title": "32A",
+      "subsections": [],
+      "text": "2 X 1C, 2.5mm PVC + CPC\n2\n2 NOS. 13A SOKET ALIR KELUAR\n2 NOS. 13A SOKET ALIR KELUAR\n2 NOS. 13A SOKET ALIR KELUAR\n2"
+    },
+    {
+      "id": "16A",
+      "title": "16A",
+      "subsections": [],
+      "text": "6 NOS. 13A SOKET ALIR KELUAR"
+    },
+    {
+      "id": "Simpanan",
+      "title": "Simpanan",
+      "subsections": []
+    },
+    {
+      "id": "16A",
+      "title": "16A",
+      "subsections": []
+    },
+    {
+      "id": "Simpanan",
+      "title": "Simpanan",
+      "subsections": [],
+      "text": "Rajah 6.2:    Contoh 1 - Skematik Pendawaian Rumah Kediaman dengan"
+    },
+    {
+      "id": "Contoh",
+      "title": "Contoh",
+      "subsections": []
+    },
+    {
+      "id": "1-Fasa Tunggal",
+      "title": "1-Fasa Tunggal",
+      "subsections": [],
+      "text": "Bekalan\nFasa Tunggal\n(ab) Pendawaian elektrik pengguna Fasa Tunggal contoh 2, Seperti Rajah 6.3."
+    },
+    {
+      "id": "Pab",
+      "title": "Pab",
+      "subsections": []
+    },
+    {
+      "id": "40A/63A",
+      "title": "40A/63A",
+      "subsections": []
+    },
+    {
+      "id": "Dk",
+      "title": "Dk",
+      "subsections": [],
+      "text": "(100mA)"
+    },
+    {
+      "id": "6A",
+      "title": "6A",
+      "subsections": [],
+      "text": "2 X 1C, 1.5mm 2 PVC + CPC"
+    },
+    {
+      "id": "Lampu/Kipas",
+      "title": "Lampu/Kipas",
+      "subsections": []
+    },
+    {
+      "id": "6A",
+      "title": "6A",
+      "subsections": [],
+      "text": "2 X 1C, 1.5mm 2 PVC + CPC"
+    },
+    {
+      "id": "Lampu/Kipas",
+      "title": "Lampu/Kipas",
+      "subsections": []
+    },
+    {
+      "id": "6A",
+      "title": "6A",
+      "subsections": [],
+      "text": "2 X 1C, 1.5mm 2 PVC + CPC"
+    },
+    {
+      "id": "Lampu/Kipas",
+      "title": "Lampu/Kipas",
+      "subsections": []
+    },
+    {
+      "id": "20A",
+      "title": "20A",
+      "subsections": [],
+      "text": "2 X 1C, 4mm 2 PVC + CPC"
+    },
+    {
+      "id": "Pendingin Hawa",
+      "title": "Pendingin Hawa",
+      "subsections": []
+    },
+    {
+      "id": "(Split Unit-Di Bawah 3Hp)",
+      "title": "(Split Unit-Di Bawah 3Hp)",
+      "subsections": [],
+      "text": "2 X 1C, 4mm 2\nPVC + CPC"
+    },
+    {
+      "id": "20A",
+      "title": "20A",
+      "subsections": [],
+      "text": "10mA"
+    },
+    {
+      "id": "20A",
+      "title": "20A",
+      "subsections": []
+    },
+    {
+      "id": "Bekalan Dari",
+      "title": "Bekalan Dari",
+      "subsections": []
+    },
+    {
+      "id": "Pemegang Lesen",
+      "title": "Pemegang Lesen",
+      "subsections": []
+    },
+    {
+      "id": "Meter",
+      "title": "Meter",
+      "subsections": [],
+      "text": "UNIT PEMOTONG &"
+    },
+    {
+      "id": "Penghubung Neutral",
+      "title": "Penghubung Neutral",
+      "subsections": []
+    },
+    {
+      "id": "Pemanas Air Elektrik",
+      "title": "Pemanas Air Elektrik",
+      "subsections": []
+    },
+    {
+      "id": "(Di Bawah 3570W-Dengan Suis Dk)",
+      "title": "(Di Bawah 3570W-Dengan Suis Dk)",
+      "subsections": []
+    },
+    {
+      "id": "Simpanan",
+      "title": "Simpanan",
+      "subsections": []
+    },
+    {
+      "id": "Suis Utama",
+      "title": "Suis Utama",
+      "subsections": []
+    },
+    {
+      "id": "Dk 63A",
+      "title": "Dk 63A",
+      "subsections": []
+    },
+    {
+      "id": "40/63A",
+      "title": "40/63A",
+      "subsections": []
+    },
+    {
+      "id": "Dk Mcb/Fius",
+      "title": "Dk Mcb/Fius",
+      "subsections": []
+    },
+    {
+      "id": "Spd",
+      "title": "Spd",
+      "subsections": []
+    },
+    {
+      "id": "Mcb Dk",
+      "title": "Mcb Dk",
+      "subsections": []
+    },
+    {
+      "id": "40A/63A",
+      "title": "40A/63A",
+      "subsections": []
+    },
+    {
+      "id": "Pab",
+      "title": "Pab",
+      "subsections": []
+    },
+    {
+      "id": "40A/63A",
+      "title": "40A/63A",
+      "subsections": []
+    },
+    {
+      "id": "Dk",
+      "title": "Dk",
+      "subsections": [],
+      "text": "(30mA)"
+    },
+    {
+      "id": "20A",
+      "title": "20A",
+      "subsections": [],
+      "text": "2 X 1C, 2.5mm 2 PVC + CPC\n2 NOS. 13A SOKET ALIR KELUAR"
+    },
+    {
+      "id": "20A",
+      "title": "20A",
+      "subsections": [],
+      "text": "2 X 1C, 2.5mm 2 PVC + CPC\n2 NOS. 13A SOKET ALIR KELUAR"
+    },
+    {
+      "id": "32A",
+      "title": "32A",
+      "subsections": [],
+      "text": "2 X 1C, 2.5mm PVC + CPC\n2 NOS. 13A SOKET ALIR KELUAR"
+    },
+    {
+      "id": "20A",
+      "title": "20A",
+      "subsections": []
+    },
+    {
+      "id": "20A",
+      "title": "20A",
+      "subsections": [],
+      "text": "2"
+    },
+    {
+      "id": "Simpanan",
+      "title": "Simpanan",
+      "subsections": []
+    },
+    {
+      "id": "Simpanan",
+      "title": "Simpanan",
+      "subsections": [],
+      "text": "Rajah 6.3:    Contoh 2 - Skematik\nPendawaian\nKediaman dengan"
+    },
+    {
+      "id": "Contoh",
+      "title": "Contoh",
+      "subsections": [],
+      "text": "2-FASA Rumah"
+    },
+    {
+      "id": "Tunggal",
+      "title": "Tunggal",
+      "subsections": [],
+      "text": "Bekalan Fasa Tunggal\n14\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n(ii)\nContoh lukisan skematik pendawaian elektrik bagi Fasa Tiga:\n(aa) Pendawaian elektrik pengguna Fasa Tiga contoh 1, seperti Rajah 6.4."
+    },
+    {
+      "id": "40/63A",
+      "title": "40/63A",
+      "subsections": [],
+      "text": "Rajah 6.4:    Contoh 1 - Skematik Pendawaian Rumah Kediaman dengan\nBekalan Fasa Tiga\n15\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n(ab) Pendawaian elektrik pengguna Fasa Tiga contoh 2, seperti Rajah 6.5."
+    },
+    {
+      "id": "40/63A",
+      "title": "40/63A",
+      "subsections": [],
+      "text": "Rajah 6.5: Contoh 2 - Skematik Pendawaian Rumah Kediaman dengan Bekalan Fasa Tiga\n(j)\nContoh gambar rajah susunan dan sambungan pendawaian lampu:"
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": []
+    },
+    {
+      "id": "S1",
+      "title": "S1",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": []
+    },
+    {
+      "id": "S2",
+      "title": "S2",
+      "subsections": []
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": []
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": [],
+      "text": "Rajah 6.6:   Contoh Satu Poin Lampu Dikawal oleh Satu Suis Sehala"
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": [],
+      "text": "16"
+    },
+    {
+      "id": "L2",
+      "title": "L2",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": []
+    },
+    {
+      "id": "L2",
+      "title": "L2",
+      "subsections": []
+    },
+    {
+      "id": "Ll",
+      "title": "Ll",
+      "subsections": []
+    },
+    {
+      "id": "L L",
+      "title": "L L",
+      "subsections": []
+    },
+    {
+      "id": "Ee",
+      "title": "Ee",
+      "subsections": []
+    },
+    {
+      "id": "E E",
+      "title": "E E",
+      "subsections": [],
+      "text": "Garis Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "L L1 1",
+      "title": "L L1 1",
+      "subsections": []
+    },
+    {
+      "id": "L L1 1",
+      "title": "L L1 1",
+      "subsections": []
+    },
+    {
+      "id": "L 2L 2",
+      "title": "L 2L 2",
+      "subsections": []
+    },
+    {
+      "id": "Ll22",
+      "title": "Ll22",
+      "subsections": []
+    },
+    {
+      "id": "Nn",
+      "title": "Nn",
+      "subsections": []
+    },
+    {
+      "id": "Ll",
+      "title": "Ll",
+      "subsections": []
+    },
+    {
+      "id": "N N",
+      "title": "N N",
+      "subsections": []
+    },
+    {
+      "id": "L L",
+      "title": "L L",
+      "subsections": []
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": [],
+      "text": "11"
+    },
+    {
+      "id": "1 1",
+      "title": "1 1",
+      "subsections": []
+    },
+    {
+      "id": "2 2",
+      "title": "2 2",
+      "subsections": [],
+      "text": "22"
+    },
+    {
+      "id": "Ee",
+      "title": "Ee",
+      "subsections": []
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": [],
+      "text": "Rajah 6.7:   Contoh Dua Poin Lampu Dikawal oleh Satu Suis Sehala"
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "L2",
+      "title": "L2",
+      "subsections": []
+    },
+    {
+      "id": "L2",
+      "title": "L2",
+      "subsections": []
+    },
+    {
+      "id": "Tiub",
+      "title": "Tiub",
+      "subsections": []
+    },
+    {
+      "id": "Tiub",
+      "title": "Tiub",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": []
+    },
+    {
+      "id": "Balla",
+      "title": "Balla",
+      "subsections": []
+    },
+    {
+      "id": "Bal",
+      "title": "Bal",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": []
+    },
+    {
+      "id": "S1",
+      "title": "S1",
+      "subsections": []
+    },
+    {
+      "id": "S1",
+      "title": "S1",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": []
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": []
+    },
+    {
+      "id": "S2",
+      "title": "S2",
+      "subsections": []
+    },
+    {
+      "id": "S2",
+      "title": "S2",
+      "subsections": []
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": []
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": []
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": [],
+      "text": "Rajah 6.8:   Contoh Dua Poin Lampu Dikawal oleh Dua Suis Sehala Secara Berasingan"
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": []
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": []
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": []
+    },
+    {
+      "id": "S1",
+      "title": "S1",
+      "subsections": []
+    },
+    {
+      "id": "S2",
+      "title": "S2",
+      "subsections": []
+    },
+    {
+      "id": "S1",
+      "title": "S1",
+      "subsections": []
+    },
+    {
+      "id": "S2",
+      "title": "S2",
+      "subsections": []
+    },
+    {
+      "id": "S1",
+      "title": "S1",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": []
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": []
+    },
+    {
+      "id": "L 1L 1",
+      "title": "L 1L 1",
+      "subsections": []
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "L2",
+      "title": "L2",
+      "subsections": []
+    },
+    {
+      "id": "Ll 22",
+      "title": "Ll 22",
+      "subsections": []
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "L2",
+      "title": "L2",
+      "subsections": []
+    },
+    {
+      "id": "L 3L 3",
+      "title": "L 3L 3",
+      "subsections": []
+    },
+    {
+      "id": "L2",
+      "title": "L2",
+      "subsections": []
+    },
+    {
+      "id": "L3",
+      "title": "L3",
+      "subsections": []
+    },
+    {
+      "id": "L2",
+      "title": "L2",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": []
+    },
+    {
+      "id": "N L",
+      "title": "N L",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": []
+    },
+    {
+      "id": "L E",
+      "title": "L E",
+      "subsections": []
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": [],
+      "text": "1\n2"
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": [],
+      "text": "1\n1\n2\n2\n1\n1\n2\n1\n2"
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": [],
+      "text": "2\nRajah 6.10:   Contoh Tiga Poin Lampu Dikawal oleh Suis Dua Hala dan Suis Perantaraan"
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "L2",
+      "title": "L2",
+      "subsections": []
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "L2",
+      "title": "L2",
+      "subsections": []
+    },
+    {
+      "id": "1N",
+      "title": "1N",
+      "subsections": []
+    },
+    {
+      "id": "Tiub",
+      "title": "Tiub",
+      "subsections": []
+    },
+    {
+      "id": "Tiub",
+      "title": "Tiub",
+      "subsections": []
+    },
+    {
+      "id": "L2",
+      "title": "L2",
+      "subsections": []
+    },
+    {
+      "id": "S1",
+      "title": "S1",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": []
+    },
+    {
+      "id": "S1",
+      "title": "S1",
+      "subsections": []
+    },
+    {
+      "id": "S2",
+      "title": "S2",
+      "subsections": [],
+      "text": "Rajah 6.9:   Contoh Satu Poin Lampu Dikawal oleh Suis Dua Hala"
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": []
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": []
+    },
+    {
+      "id": "Ll11",
+      "title": "Ll11",
+      "subsections": []
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "S1",
+      "title": "S1",
+      "subsections": []
+    },
+    {
+      "id": "S2",
+      "title": "S2",
+      "subsections": []
+    },
+    {
+      "id": "S2",
+      "title": "S2",
+      "subsections": []
+    },
+    {
+      "id": "S2",
+      "title": "S2",
+      "subsections": []
+    },
+    {
+      "id": "Tiub",
+      "title": "Tiub",
+      "subsections": []
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": []
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": []
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": []
+    },
+    {
+      "id": "Ballast",
+      "title": "Ballast",
+      "subsections": []
+    },
+    {
+      "id": "Ballast",
+      "title": "Ballast",
+      "subsections": []
+    },
+    {
+      "id": "Ballast",
+      "title": "Ballast",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": [],
+      "text": "Rajah 6.11:   Contoh Satu\nPoin Lampu Pendarflour Dikawal oleh Suis Satu Hala"
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": [
+        {
+          "id": "2.5",
+          "title": "100",
+          "subsections": [],
+          "text": "Jejari\n30 atau 32"
+        },
+        {
+          "id": "4.0",
+          "title": "75",
+          "subsections": [],
+          "text": "Jejari\n20"
+        },
+        {
+          "id": "2.5",
+          "title": "50",
+          "subsections": [],
+          "text": "Jadual 6.3: Saiz Konduktor Terendah dan Keluasan Lantai Terbesar untuk Litar\nSoket Alir Keluar Umum (Kecuali Fixed Appliances) di Kediaman"
+        }
+      ],
+      "text": "17\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n(k)\nContoh gambar rajah susunan dan sambungan pendawaian soket alir keluar:\n(i)\nJumlah litar akhir yang perlu diagihkan dan saiz konduktor yang digunakan serta\nluas lantai terbesar yang dibenarkan boleh ditentukan dengan berpandukan\nJadual 6.3 di bawah:\nJenis Litar\nKadar Perlindungan\nArus Lebih\n(Fius atau MCB)\nSaiz Terendah Konduktor\nKuprum Dalam Kabel\nBerpenebat PVC\natau Getah\nKeluasan\nLantai\nTerbesar\n(Ampere)\n(mm2)\n(m2)\nGelang\n30 atau 32"
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": []
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": []
+    },
+    {
+      "id": "En",
+      "title": "En",
+      "subsections": []
+    },
+    {
+      "id": "Nl",
+      "title": "Nl",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": [],
+      "text": "Rajah 6.12: Contoh Soket Alir Keluar – Satu Soket"
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": []
+    },
+    {
+      "id": "En",
+      "title": "En",
+      "subsections": []
+    },
+    {
+      "id": "Nl",
+      "title": "Nl",
+      "subsections": []
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": [],
+      "text": "Rajah 6.13: Contoh Soket Alir Keluar – Disambung Secara Jejari (Radial)"
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": []
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": []
+    },
+    {
+      "id": "En",
+      "title": "En",
+      "subsections": []
+    },
+    {
+      "id": "Nl",
+      "title": "Nl",
+      "subsections": []
+    },
+    {
+      "id": "L",
+      "title": "L",
+      "subsections": []
+    },
+    {
+      "id": "Mcb",
+      "title": "Mcb",
+      "subsections": []
+    },
+    {
+      "id": "Mcb",
+      "title": "Mcb",
+      "subsections": []
+    },
+    {
+      "id": "Mcb",
+      "title": "Mcb",
+      "subsections": [],
+      "text": "Rajah 6.14: Contoh Soket Alir Keluar – Disambung Secara Litar Gelang (Ring)\n18\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\nJarak Selamat Pendawaian Elektrik Kediaman\n(a)\nBagi mengurangkan kesan percikan (splashing effect) air ke atas soket alir keluar dan\naksesori serupa hendaklah dipasang pada jarak tidak kurang dari 300 mm pada\nbidang mendatar (horizontal plane) dari hujung sinki, paip dan seumpamanya.\nTiada soket dalam\njarak 300 mm\ndaripada tepi sinki\nSuis\nDapur\n100 mm\n300 mm\n150 mm\n300 mm\nTiada soket atau\naksesori di ruangan atas\ndapur gas / elektrik\nSambungan\nDapur\n1,500 mm\nRajah 6.15: Jarak Selamat Antara Soket Alir Keluar dan Sinki Dapur Serta Jarak\nKetinggian Selamat Antara Soket Alir Keluar dan Kabinet Dapur\n(b)\nZon laluan kabel pendawaian yang dibenarkan adalah seperti berikut:\n(i)\nKabel pendawaian hendaklah dipasang secara melintang (horizontal) dalam\njarak 150 mm dari siling (concrete ceiling).\n(ii)\nKabel yang dipasang secara menegak (vertical) hendaklah berada dalam jarak\n150 mm dari hujung dinding (wall-end) atau sudut (corner of wall).\n(iii) Kabel yang dipasang secara menegak (vertical) tidak boleh berada dalam jarak\n150 mm dari bingkai tingkap dan pintu.\n(iv) Kabel yang menghubungkan suis pada dinding dan soket alir keluar hendaklah\ndipasang secara menegak (vertical) di atas peranti tersebut."
+    },
+    {
+      "id": "150 Mm",
+      "title": "150 Mm",
+      "subsections": []
+    },
+    {
+      "id": "150 Mm",
+      "title": "150 Mm",
+      "subsections": []
+    },
+    {
+      "id": "Mm",
+      "title": "Mm",
+      "subsections": []
+    },
+    {
+      "id": "Slab",
+      "title": "Slab",
+      "subsections": []
+    },
+    {
+      "id": "Ffl",
+      "title": "Ffl",
+      "subsections": []
+    },
+    {
+      "id": "300 Mm",
+      "title": "300 Mm",
+      "subsections": []
+    },
+    {
+      "id": "150 Mm",
+      "title": "150 Mm",
+      "subsections": []
+    },
+    {
+      "id": "Mm",
+      "title": "Mm",
+      "subsections": []
+    },
+    {
+      "id": "Tidak Dibenarkan",
+      "title": "Tidak Dibenarkan",
+      "subsections": []
+    },
+    {
+      "id": "Mm",
+      "title": "Mm",
+      "subsections": [
+        {
+          "id": "6.3",
+          "title": "PETUNJUK:",
+          "subsections": [],
+          "text": "Zon laluan kabel yang\ndibenarkan\nRajah 6.16:  Zon Laluan Kabel Pendawaian yang Dibenarkan\n(c)\nJarak selamat antara punca elektrik (soket alir keluar) dan sistem perpaipan gas (gas\noutlet) adalah minimum 200 mm menurut Health Technical Memorandum HTM 2022-02.\n19\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n20\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+        }
+      ]
+    },
+    {
+      "id": "Sistem Kawalan",
+      "title": "Sistem Kawalan",
+      "subsections": []
+    },
+    {
+      "id": "Dan Perlindungan",
+      "title": "Dan Perlindungan",
+      "subsections": []
+    },
+    {
+      "id": "Pendawaian",
+      "title": "Pendawaian",
+      "subsections": [],
+      "text": "21\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "7",
+      "title": "SISTEM KAWALAN DAN PERLINDUNGAN PENDAWAIAN",
+      "subsections": [
+        {
+          "id": "7.1",
+          "title": "Pemilihan Sistem Kawalan dan Perlindungan Pendawaian",
+          "subsections": [],
+          "text": "(a)"
+        },
+        {
+          "id": "7.2",
+          "title": "7.3",
+          "subsections": [],
+          "text": "Kawalan dan perlindungan pendawaian adalah suatu sistem pemencilan /\npengasingan dan pensuisan serta sistem perlindungan yang mesti ada di dalam\nsetiap pendawaian rumah kediaman.\nPengasingan dan Pensuisan\n(a)\nContoh peralatan yang digunakan untuk tujuan kawalan dan perlindungan adalah\nseperti suis, palam kuasa, soket alir keluar dan pemutus litar.\n(b)\nPeralatan ini berfungsi untuk menyambung dan memutuskan bekalan pada sesuatu\nlitar tanpa mengganggu litar lain.\n(c)\nPeralatan ini juga bertujuan untuk mencegah bahaya renjatan elektrik semasa\npenyenggaraan, pengujian, mengesan kerosakan dan pembaikan.\nPerlindungan\n(a)\nMemberi perlindungan kepada sistem pendawaian, kelengkapan elektrik atau\npengguna daripada bahaya yang disebabkan oleh arus elektrik seperti beban lebih,\narus bocor ke bumi, litar pintas, kilat dan sebagainya.\n(b)\nRajah 7.1 di bawah menunjukkan alat pengasing dan perlindungan yang mesti\ndipasang pada sistem pendawaian elektrik rumah kediaman."
+        }
+      ]
+    },
+    {
+      "id": "Papan Agihan",
+      "title": "Papan Agihan",
+      "subsections": [],
+      "text": "\u001b\u001a\u0019\n\u0018\u0017\n\u0016\u0015\u0019\u001a\u001b\n\u0014\u001b\n\u0013\u0012\u0019\n\u0014\u0015\n\u001b\n\u0011\u0013\u0015\u001a\u0018\u0010\n\u000f\u0019\u000e\u001b"
+    },
+    {
+      "id": "Bekalan Dari",
+      "title": "Bekalan Dari",
+      "subsections": []
+    },
+    {
+      "id": "Pemegang Lesen",
+      "title": "Pemegang Lesen",
+      "subsections": [],
+      "text": "\u0013\u0012\u0019\n\u0014\u0015\n\u001b\n\u0001\n\u000f\u0013\u001b\n\u0001\n\u0018\u0005\u0015\u0019\n\u0013\u0012\u0019\n\u0014\u0015\n\u001b\n\u0011\u0013\u0015\u001a\u0018\u0010\n\u000f\u0019\u000e\u001b"
+    },
+    {
+      "id": "Meter",
+      "title": "Meter",
+      "subsections": []
+    },
+    {
+      "id": "Beban",
+      "title": "Beban",
+      "subsections": [],
+      "text": "\b\n\u0007\n\u0006\u0005\n\u0004\u0003\u0011\u0002\n\u0011\u0003\n\u0005\u0011\u0001\n\u0011 \u0011\nUNIT PEMOTONG &"
+    },
+    {
+      "id": "Penghubung Neutral",
+      "title": "Penghubung Neutral",
+      "subsections": [],
+      "text": "\b\n\u0018\b\n\u0018\n\u0006\u0005\n\u0007\n\u0007\nRajah 7.1:   Alat Pengasing dan Perlindungan Pendawaian Elektrik Rumah Kediaman\n(c)\nSecara amnya, sistem perlindungan boleh dibahagikan kepada dua (2) iaitu sistem\nperlindungan arus dan sistem perlindungan pusuan.\n(d)\nSistem perlindungan arus pula terbahagi kepada dua (2) jenis iaitu:\n(i)\nPerlindungan arus lebih (arus beban lebih atau litar pintas).\n(aa) Pemutus litar atau fius hendaklah digunakan dengan kadaran yang\nsesuai bagi perlindungan arus beban lebih atau litar pintas.\n22\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n(ab) Pemutus litar atau fius hanya digunakan pada konduktor hidup sahaja\nmelainkan pemutus litar dua kutub bagi Fasa Tunggal atau empat kutub\nbagi Fasa Tiga digunakan. Bagi penggunaan litar Fasa Tiga, semua pemutus\nlitar atau fius hendaklah digabungkan dalam satu kumpulan litar.\n(ac) Pemilihan keupayaan pemutus (Breaking Capacity) alat pelindung arus\nlebihan mestilah berpandukan kepada paras kerosakan arus litar pintas\n(kA) yang telah dikira (Prospective Short Circuit Current - PSCC).\n(ii)\nPerlindungan arus bocor ke bumi.\n(aa) PAB hendaklah digunakan pada litar-litar akhir dengan kadaran yang\nsesuai bagi perlindungan arus bocor ke bumi (mengelakkan daripada\nrenjatan elektrik).\n(ab) PAB hendaklah dari jenis kendalian arus, Pemutus Litar Bocor Bumi /\nEarth-Leakage Circuit Breaker (ELCB) untuk jenis kendalian voltan tidak\nboleh digunakan.\n(ac) PAB dikelaskan mengikut tindak balas peranti tersebut terhadap Arus\nTerus / Direct Current (DC). Empat (4) jenis PAB yang biasa digunakan\nadalah daripada jenis AC, A, B dan F. Penggunaan PAB jenis AC adalah\nyang paling biasa digunakan dalam pendawaian di rumah.\n(ad) PAB jenis AC bertindak balas hanya kepada Arus Ulang-Alik / Alternating\nCurrent (AC) yang tiba-tiba muncul atau bertambah perlahan-lahan\nmanakala PAB jenis A berfungsi kepada arus kebocoran AC dan pulsating\nDC. PAB jenis B dan F bertindak balas kepada arus kebocoran AC,\npulsating DC dan smooth DC. PAB jenis A adalah digalakkan untuk\npepasangan yang terdapat banyak peralatan elektronik digunakan (TV,\nkomputer, mesin pencetak, CCTV dan lain-lain) manakala penggunaan\nPAB jenis B dan F digalakkan sekiranya ada menggunakan peralatan\nelektrik yang dilengkapi dengan penyongsang (inverter).\nJenis Simbol yang Disyorkan\nBekalan\nJenis Arus Baki\nSinusoidal"
+    },
+    {
+      "id": "A.C.",
+      "title": "A.C.",
+      "subsections": [],
+      "text": "Sinusoidal"
+    },
+    {
+      "id": "A.C.",
+      "title": "A.C.",
+      "subsections": [],
+      "text": "Muncul Secara Tiba-Tiba\nMuncul Secara Tiba-Tiba\nBertambah Secara Perlahan\nBertambah Secara Perlahan\nPulsating"
+    },
+    {
+      "id": "D.C.",
+      "title": "D.C.",
+      "subsections": [],
+      "text": "Pulsating"
+    },
+    {
+      "id": "D.C.",
+      "title": "D.C.",
+      "subsections": [],
+      "text": "Muncul Secara Tiba-Tiba\nMuncul Secara Tiba-Tiba\nBertambah Secara Perlahan\nBertambah Secara Perlahan\nSmooth"
+    },
+    {
+      "id": "D.C.",
+      "title": "D.C.",
+      "subsections": [],
+      "text": "Smooth"
+    },
+    {
+      "id": "D.C.",
+      "title": "D.C.",
+      "subsections": [],
+      "text": "Jadual 7.1: Jenis-Jenis PAB\n23"
+    },
+    {
+      "id": "Ac",
+      "title": "Ac",
+      "subsections": []
+    },
+    {
+      "id": "A",
+      "title": "A",
+      "subsections": []
+    },
+    {
+      "id": "B",
+      "title": "B",
+      "subsections": [],
+      "text": "Garis Panduan Pendawaian Elektrik Pepasangan Domestik\n(ae) Kadar Rated Conditional Short Circuit Current (Inc) bagi PAB hendaklah\nsama atau lebih daripada kadar keupayaan pemutus (kA) pemutus litar\nupstream.\n(af)\nPeraturan 36(1) PPE 1994 menyatakan bagi sesuatu pepasangan di tempat\nhiburan awam, perlindungan terhadap arus kebocoran bumi hendaklah\nmenggunakan PAB berkepekaan tidak melebihi 10 miliampere.\n(ag) Peraturan 36(2) PPE 1994 menyatakan bagi sesuatu pepasangan di\ntempat yang lantainya berkemungkinan akan basah atau jika dinding\natau kepungan berintangan elektrik yang rendah, perlindungan terhadap\narus kebocoran bumi hendaklah menggunakan PAB berkepekaan tidak\nmelebihi 10 miliampere.\n(ah) Peraturan 36(3) PPE 1994 menyatakan bagi sesuatu pepasangan jika\nkelengkapan, radas atau perkakas yang dipegang dengan tangan,\nperlindungan terhadap arus kebocoran bumi hendaklah menggunakan\nPAB berkepekaan tidak melebihi 30 miliampere.\n(ai)\nPeraturan 36(4) PPE 1994 menyatakan bagi sesuatu pepasangan selain\ndaripada (af), (ag) dan (ah), perlindungan terhadap arus kebocoran\nbumi hendaklah menggunakan PAB berkepekaan tidak melebihi 100\nmiliampere.\nKepekaan PAB\n(Tertinggi)\nJenis Pepasangan"
+    },
+    {
+      "id": "1",
+      "title": "Tempat hiburan",
+      "subsections": [],
+      "text": "awam, tempat\nyang lantainya\nberkemungkinan\nakan basah, dinding\natau kepungan\nberintangan elektrik\nyang rendah\n- Kolam\nSubperaturan - Lampu pagar,\n≤10mA (0.01A)\n36\nlampu taman\n(1) dan (2)\n- Litar pemanas\nair"
+    },
+    {
+      "id": "2",
+      "title": "Kelengkapan, radas",
+      "subsections": [],
+      "text": "atau perkakas\nyang dipegang\ndengan tangan\ndigunakan atau\nberkemungkinan\ndigunakan\n≤30mA (0.03A)\nSelain daripada\npepasangan (1)\ndan (2)\n- Litar\npencahayaan\nSubperaturan\n≤100mA (0.1A)\n- Litar kipas"
+    },
+    {
+      "id": "36 (4)",
+      "title": "36 (4)",
+      "subsections": [],
+      "text": "- Litar pendingin\nhawa"
+    },
+    {
+      "id": "3",
+      "title": "PPE 1994",
+      "subsections": [],
+      "text": "Contoh\nPenggunaan\nBil.\nSubperaturan - Litar soket alir"
+    },
+    {
+      "id": "36 (3)",
+      "title": "36 (3)",
+      "subsections": [],
+      "text": "keluar\nJadual 7.2: Keperluan Penggunaan Kepekaan PAB yang bersesuaian\nberdasarkan Peraturan 36 PPE\n24\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n(e)\nPemasangan SPD hendaklah merujuk kepada Panduan Sistem Perlindungan Kilat\n(SPK) di Bangunan yang dikeluarkan oleh Suruhanjaya mengikut keperluan Standard\nMalaysia MS IEC 62305 seperti yang berikut:\n(i)\npelaksanaan penilaian risiko (Risk Assessment) kilat ke atas bangunan kediaman\ndijalankan oleh Jurutera Perunding bertauliah atau Kontraktor Elektrik\nberdaftar dengan Suruhanjaya.\n(ii) sistem pendawaian elektrik di kediaman hendaklah dilengkapi dengan\npemasangan SPK yang bergantung kepada tahap risiko kilat seperti dalam\nlaporan penilaian risiko kilat tersebut; dan\n(iii) sistem pendawaian elektrik di kediaman hendaklah dilengkapi dengan\npemasangan SPD yang bergantung kepada tahap risiko kilat seperti dalam\nlaporan penilaian risiko kilat tersebut.\n25\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n26\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Pemilihan",
+      "title": "Pemilihan",
+      "subsections": []
+    },
+    {
+      "id": "Kabel",
+      "title": "Kabel",
+      "subsections": [],
+      "text": "27\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "8",
+      "title": "PEMILIHAN KABEL",
+      "subsections": [
+        {
+          "id": "8.1",
+          "title": "Pemilihan Jenis Kabel Pendawaian",
+          "subsections": [],
+          "text": "Pemilihan jenis dan saiz kabel hendaklah menggunakan kabel yang diluluskan oleh\nSuruhanjaya dan perlu mengambil kira perkara-perkara seperti berikut:\n(a)\nSemua kabel pendawaian termasuk kabel pendawaian diantara meter utiliti\ndan papan agihan pengguna mestilah berpenebat jenis PVC atau PVC / PVC dan\nberkonduktor kuprum.\n(b)\nSemua kabel pendawaian dalam kolam renang hendaklah dari jenis kalis air\nbertebatkan polyethylene (PE).\n(c)\nSemua kabel yang digunakan hendaklah yang diluluskan oleh Suruhanjaya dan\nmempunyai label keselamatan ST-SIRIM yang dicetak (embossed) di atas penebat.\n(d)\nSaiz kabel mampu membawa arus beban maksimum tanpa memanaskan kabel.\n(e)\nSetiap pemasangan pendawaian Fasa Tiga teras tunggal hendaklah disatukan dalam\npembuluh atau sesalur bagi mengelakkan susut voltan. Kadar susut voltan kabel\nadalah seperti Jadual 8.1.\nPunca Bekalan\nLampu\nLain-lain\nBekalan pepasangan Voltan Rendah terus dari sistem pengagihan\nVoltan Rendah utiliti.\n3%\n5%\nBekalan pepasangan Voltan Rendah yang dibekalkan dari bekalan\nVoltan Rendah persendiriana.\n6%\n8%\nNota:"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "title": "2.",
+      "subsections": [
+        {
+          "id": "8.2",
+          "title": "Faktor-Faktor yang Berkaitan dengan Keupayaan Kabel Membawa Arus",
+          "subsections": [],
+          "text": "Faktor-faktor yang berkaitan dengan keupayaan kabel membawa arus berikut perlu\ndiambil kira:"
+        },
+        {
+          "id": "8.3",
+          "title": "(a)",
+          "subsections": [],
+          "text": "Pendawaian permukaan menggunakan klip - faktor kumpulan.\n(b)\nPendawaian menggunakan pembuluh - faktor ruang 40%.\n(c)\nPendawaian menggunakan sesalur - faktor ruang 45%.\n(d)\nPendawaian terbenam - faktor kumpulan.\n(e)\nPendawaian terbenam menggunakan sesalur - faktor suhu persekitaran.\nPenggunaan Kadaran Luas Keratan Rentas Minimum Konduktor Pendawaian\nLuas keratan rentas minimum konduktor mengikut kegunaannya adalah seperti dalam\nJadual 8.2 di bawah:\nLuas Keratan Rentas\nKonduktor\n(mm 2)\nJenis\nBahan\nPenggunaan"
+        },
+        {
+          "id": "1.5",
+          "title": "Litar pencahayaan / kipas",
+          "subsections": []
+        },
+        {
+          "id": "2.5",
+          "title": "Litar soket alir keluar 13A",
+          "subsections": [],
+          "text": "4–6\nLitar Kuasa Khas ((contoh: pendingin hawa, pemanas air,\nunit pemasak, motor / pam)\nKuprum\n10\nLitar Utama dengan kadaran pemutus litar ≤ 40A\n16\nLitar Utama dengan kadaran pemutus litar ≤ 63A\n25\nLitar Utama dengan kadaran pemutus litar ≤ 100A\nJadual 8.2:   Luas Keratan Rentas Minimum Konduktor Mengikut Penggunaan"
+        },
+        {
+          "id": "8.4",
+          "title": "Penggunaan Kadaran Luas Keratan Rentas Minimum Konduktor Pelindung",
+          "subsections": [],
+          "text": "Berbanding dengan Luas Keratan Rentas Konduktor Fasa\nLuas keratan rentas minimum konduktor pelindung boleh ditentukan menggunakan dua\n(2) kaedah iaitu:\n(a)\nMenggunakan Jadual 8.3, atau\n(b)\nFormula adiabatik.\nLuas Keratan Rentas Konduktor\nFasa (S)\n(mm 2)\nLuas Keratan Rentas Minimum Bagi Konduktor\nPelindung - CPC\n(mm 2)\nS ≤ 16"
+        }
+      ],
+      "text": "Di mana sistem pendawaian bagi pepasangan lebih panjang daripada 100 meter, susut\nvoltan di atas boleh bertambah sebanyak 0.005% per meter bagi sistem pendawaian\nmelebihi 100 meter tanpa kenaikan ini melebihi 0.5%.\nSusut voltan ditentukan dari permintaan arus. Dengan menggunakan peralatan arus\nbeban, coincidence factor boleh digunakan di mana berkenaan atau dari nilai design\ncurrent (IB) bagi litar.\na\nNilai susut voltan dalam litar akhir mestilah kurang daripada 1%.\nJadual 8.1:   Nilai Susut Voltan yang Dibenarkan\n(f)\nRujuk Jadual di Lampiran IV untuk nilai susut voltan dan rujuk Lampiran VII untuk\ncontoh pengiraan susut voltan.\n(g)\nPenebat kabel mestilah bersesuaian dengan keadaan persekitaran pepasangan\nseperti mempunyai ketahanan suhu persekitaran dan ketahanan perlindungan\nmekanikal.\n(h)\nSetiap konduktor dalam pemasangan mesti dilindungi daripada arus lebihan dengan\nPeranti Pelindung Arus Lebih (PPAL) seperti MCB, fius dan sebagainya supaya\npenebat kabel tidak akan rosak.\n(i)\nBagi pepasangan melebihi 100A, semua kerja pendawaian elektrik hendaklah\ndireka bentuk oleh Jurutera Perunding yang berdaftar dengan Lembaga Jurutera\nMalaysia atau Kontraktor Elektrik yang sah berdaftar dengan Suruhanjaya.\n28\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "S",
+      "title": "S",
+      "subsections": [],
+      "text": "16 < S ≤ 35\n16\nS > 35"
+    },
+    {
+      "id": "S/2",
+      "title": "S/2",
+      "subsections": [
+        {
+          "id": "8.5",
+          "title": "Kehendak Kod Warna Konduktor dan Kabel",
+          "subsections": [],
+          "text": "(a)\nKehendak kod warna konduktor dan kabel bukan boleh lentur:\n(i)\nPenggunaan kod warna konduktor dan kabel bukan boleh lentur dalam sistem\npendawaian elektrik adalah seperti di dalam Jadual 8.4 berikut:\nJenis Pendawaian Elektrik\nWarna Kabel\nFasa bagi Litar Fasa Tunggal\nMerah / Kuning / Biru\nFasa L1 bagi Litar Fasa Tiga\nMerah\nFasa L2 bagi Litar Fasa Tiga\nKuning\nFasa L3 bagi Litar Fasa Tiga\nBiru\nNeutral bagi Litar\nHitam\nKonduktor Pelindung / Pembumian\nHijau / Hijau-Kuning\nJadual 8.4:   Kod Warna Konduktor dan Kabel Bukan Boleh Lentur\n(b)\nKehendak kod warna konduktor dan kabel boleh lentur:\n(i)\nKabel boleh lentur dengan luas keratan rentas kurang 4.0 mm2 diguna pakai\nuntuk pemasangan pada aksesori elektrik seperti siling ros, penetap atau\nlekapan lampu, palam soket ke radas mudah alih dan sebagainya.\n(ii) Kabel boleh lentur tidak boleh digunakan untuk pendawaian kekal.\n(iii) Penggunaan kod warna konduktor dan kabel boleh lentur dalam sistem\npendawaian elektrik adalah seperti di dalam Jadual 8.5 berikut:\nBilangan Teras\nJenis Konduktor\nWarna Kabel\n1, 2 atau 3\nKonduktor Fasa\nPerang\nKonduktor Neutral\nBiru\nKonduktor Pelindung\nHijau / Hijau-Kuning\nKonduktor Fasa\nPerang / Hitam / Kelabu\n4 atau 5\nKonduktor Neutral\nBiru\nKonduktor Pelindung\nHijau / Hijau-Kuning\nJadual 8.5:   Kod Warna Konduktor dan Kabel Boleh Lentur\n30\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+        },
+        {
+          "id": "8.6",
+          "title": "Keperluan Minimum Penebat Konduktor dan Jenis Pendawaian",
+          "subsections": [],
+          "text": "(a)\nTerdapat pelbagai jenis bahan dan lapisan penebat yang digunakan untuk\nperlindungan konduktor.\n(b)\nSemua pemasangan pendawaian dalam rumah hendaklah dipasang di dalam\npembuluh atau sesalur sama ada pada permukaan atau terbenam.\n(c)\nPendawaian elektrik jenis permukaan mestilah dilindungi oleh pembuluh atau\nsesalur dan menggunakan jenis kabel PVC+CPC.\n(d)\nPemilihan kabel mengikut jenis lapisan penebat perlu betul untuk tujuan pemasangan\npendawaian seperti Jadual 8.6:\nLapisan Penebat Konduktor\nJenis Pendawaian\nKonduktor Bertebat Selapis\nPembuluh atau Sesalur\n(Permukaan atau Terbenam)\nKonduktor Bertebat Dua Lapis\nPermukaan (Tray, Direct Clip)\nKonduktor Bertebat PVC Berperisai\nKabel Bawah Tanah\nJadual 8.6:   Keperluan Minimum Penebat Konduktor dan Jenis Pendawaian"
+        },
+        {
+          "id": "8.7",
+          "title": "Pindaan Kod Warna pada Konduktor Fasa",
+          "subsections": [],
+          "text": "(a)\nComité Européen de Normalisation Électrotechnique (CENELEC) telah menguatkuasakan\nkod warna yang baharu yang digunakan bagi konduktor fasa untuk setiap sistem\npendawaian elektrik bermula April 2004 dengan merujuk pada standard IEC 60445\n- Identification of conductors by colours or alphanumerics.\n(b)\nWalau bagaimanapun, buat masa ini, Suruhanjaya masih mengekalkan penggunaan\nkod warna yang lama dan pertukaran akan dilaksanakan pada bila-bila masa yang\ndifikirkan sesuai oleh Suruhanjaya.\nKod Warna Lama\nKod Warna Baharu"
+        }
+      ],
+      "text": "Jadual 8.3: Luas Keratan Rentas Minimum Konduktor Pelindung Berbanding dengan\nLuas Keratan Rentas Konduktor Fasa\n29\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\nLuas keratan rentas minimum konduktor pelindung juga boleh dikira dengan menggunakan\nformula adiabatik seperti di bawah:\nS=\nI2 t\n(valid only for disconnection time less than 5s)\nk\ndi mana\nS : cross sectional area of CPC (mm2)\nI : rms value of prospective fault current (A)\nt : operating time of the protective device for automatic disconnection (s)\nk : factor depending on the material of the protective conductor, insulation, initial and\nfinal temperatures (refer annex A of MS-IEC-60364-5-54)"
+    },
+    {
+      "id": "Merah",
+      "title": "Merah",
+      "subsections": [],
+      "text": "Fasa 1\nFasa 1 PERANG"
+    },
+    {
+      "id": "Kuning",
+      "title": "Kuning",
+      "subsections": [],
+      "text": "Fasa 2\nFasa 2 HITAM"
+    },
+    {
+      "id": "Biru",
+      "title": "Biru",
+      "subsections": [],
+      "text": "Fasa 3\nFasa 3 KELABU\nNeutral\nNeutral"
+    },
+    {
+      "id": "Hitam",
+      "title": "Hitam",
+      "subsections": []
+    },
+    {
+      "id": "Hijau",
+      "title": "Hijau",
+      "subsections": []
+    },
+    {
+      "id": "Hijau-Kuning",
+      "title": "Hijau-Kuning",
+      "subsections": []
+    },
+    {
+      "id": "Hijau/ Dan",
+      "title": "Hijau/ Dan",
+      "subsections": []
+    },
+    {
+      "id": "Kuning",
+      "title": "Kuning",
+      "subsections": [],
+      "text": "Bumi"
+    },
+    {
+      "id": "Biru",
+      "title": "Biru",
+      "subsections": [],
+      "text": "Bumi"
+    },
+    {
+      "id": "Hijau Dan Kuning",
+      "title": "Hijau Dan Kuning",
+      "subsections": []
+    },
+    {
+      "id": "Hijau / Hijau-Kuning",
+      "title": "Hijau / Hijau-Kuning",
+      "subsections": [],
+      "text": "Rajah 8.1: Perbandingan Kod Warna Lama dan Baharu Merujuk IEC 60445\n31\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n32\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Aksesori",
+      "title": "Aksesori",
+      "subsections": []
+    },
+    {
+      "id": "Elektrik",
+      "title": "Elektrik",
+      "subsections": [],
+      "text": "33\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "9",
+      "title": "AKSESORI ELEKTRIK",
+      "subsections": [
+        {
+          "id": "9.1",
+          "title": "Pemilihan Aksesori Pendawaian",
+          "subsections": [],
+          "text": "(a)\nSemua kategori kelengkapan elektrik dan aksesori pendawaian yang dikawalselia\noleh Suruhanjaya yang digunakan hendaklah diluluskan oleh Suruhanjaya dan\ndilabelkan dengan label atau tanda keselamatan ST-SIRIM selaras dengan Guidelines\nfor Approval of Electrical Equipment (GP/ST/NO.37/2024) yang dikeluarkan oleh\nSuruhanjaya.\n(b)\nBahan binaan bagi suis, soket alir keluar, palam 3-pin, ros siling, penyambung\nyang digunakan dalam semua pendawaian menggunakan pembuluh Unplasticised\nPolyvinyl Chloride (UPVC) hendaklah dari jenis polycarbonate.\n(c)\nBahan binaan bagi suis, soket alir keluar dan penyambung yang digunakan dalam\nsemua pendawaian menggunakan pembuluh logam hendaklah dari jenis berperisai\nlogam (metal clad) dan semua aksesori hendaklah dibumikan secara berkesan.\n(d)\nSuis fius yang digunakan pada pemasangan pendawaian Fasa Tunggal mestilah\nmempunyai fius yang dipasang secara tetap dan tidak bergerak bersama suis.\n(e)\nFius suis yang digunakan pada pemasangan kediaman sistem Fasa Tiga juga\nmempunyai fius dan suis. Penyambung fius dipasang bersama bagi membolehkan\nfius bergerak secara serentak.\n(f)\nLampu\n(i)\nLampu pendarflour yang menggunakan pencekik magnet (magnetic ballast)\nmesti dilengkapkan dengan pemuat (capacitor) jenis kertas kering. Pencekik\nmagnet tersebut mestilah yang mempunyai hilang watt (watt loss) tidak\nmelebihi 6 watt.\n(ii)\nLampu pendarflour yang menggunakan pencekik elektronik (electronic ballasts)\natau pencekik elektronik ayunan tinggi (high frequency electronic ballasts) tidak\nmemerlukan pemuat (capacitor).\n(iii)\nPemasangan lampu di luar rumah kediaman, hendaklah menggunakan lampu\nkalis cuaca dan kalis air.\n(iv)\nVoltan bagi semua pemasangan lampu dalam kolam renang mestilah Separated\nExtra Low Voltage (SELV) berkadaran voltan tidak boleh melebihi 12 Volt AC dan\nhendaklah menggunakan jenis lampu dalam air yang menepati keperluan IEC"
+        }
+      ]
+    },
+    {
+      "id": "60598-2-18.",
+      "title": "60598-2-18.",
+      "subsections": [],
+      "text": "(g)\nLitar kuasa bagi kelengkapan seperti pendingin hawa, pemanas air, ketuhar, mesin\npengering pakaian dan kelengkapan lain yang akan ditetapkan oleh Suruhanjaya\ndari semasa ke semasa hendaklah disambung secara berasingan dari litar yang\nlain.\n(h)\nPemanas air mandian elektrik terbahagi kepada dua (2) jenis iaitu pemanas air\nsegera dan pemanas air jenis storan.\n(i)\nPemanas air jenis segera atau jenis storan mesti dilengkapi dengan kawalan\nsuis dua kutub (DK) atau suis pengasing untuk tujuan pengasingan sekiranya\nmemerlukan senggaraan atau kecemasan.\n(ii)\nLitar pemanas air elektrik hendaklah disambung secara tetap kepada pemutus\nlitar / fius 20A / 32A berserta dengan pemasangan PAB tidak melebihi 10mA.\n34\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n(iii)\nSoket alir keluar dan palam tidak dibenarkan untuk sambungan litar pemanas\nair. Sekiranya terdapat sambungan di antaranya, hanya connector dan\nconnection box yang diluluskan adalah dibenarkan. Bagi sambungan di dalam\nbilik pancuran atau zon 1 atau di bawah siling, connection box yang digunakan\nhendaklah daripada jenis IPX5.\n(iv)\nHos pada alat pemanas air elektrik serta bahagian yang boleh dipegang dengan\ntangan hendaklah diperbuat daripada bahan bukan pengalir (konduktor).\n(v)\nPemanas air elektrik jenis storan tidak boleh beroperasi jika tidak dilengkapi\ndengan injap pelepasan tekanan (pressure relief valve) dan penghalang\npengasingan (isolation barrier). Operasi peranti tersebut mestilah tidak\nmempunyai sebarang halangan dan tidak boleh dikunci / ditutup. Untuk\nmaklumat lanjut berkaitan pemanas air elektrik, sila rujuk Guideline for the\nDesign, Installation, Inspection, Testing, Operation and Maintenance of Water\nHeater Systems (GP/ST/No.6/2016) yang dikeluarkan oleh Suruhanjaya.\n(i)\nPemasak elektrik yang melebihi 3kW hendaklah mempunyai litar tersendiri yang\ndisambung secara tetap kepada pemutus litar atau fius 20A / 32A berserta suis\npengasing.\n(j)\nMotor elektrik yang melebihi 373W (0.5HP) tetapi tidak melebihi 2,238W (3.0HP)\nhendaklah:\n(i)\nDisambung secara kekal di dalam sesalur berasingan kepada pemutus litar /\nfius berkadaran 20A / 32A.\n(ii)\nDipasang berserta dengan pengasing, penghidup motor dan soket alir keluar"
+    },
+    {
+      "id": "15A.",
+      "title": "15A.",
+      "subsections": [],
+      "text": "(iii)\nDilengkapi atau dipasang dengan penghidup motor jenis terus ke talian (direct\nonline) yang dilengkapi dengan sesentuh, geganti beban lampau dan kawalan\nmula-henti kecuali motor elektrik bagi pendingin hawa.\n(iv)\nPemutus litar / fius yang melindungi litar motor mesti berkeupayaan menahan\narus permulaan beban motor tersebut tanpa terpelantik.\n(k)\nLoceng elektrik – Litar mestilah mengandungi suis tetekan (push button) dan\npengubah AC / DC.\n(l)\nKipas angin siling mestilah mematuhi standard:\n(m)\n(i)\nMS IEC 60335-1, MS 1597-2-80: Safety of Household and Similar Electrical\nAppliances Part 2: Particular Requirements for Fans, Klausa 21.101 iaitu ujian\nterhadap talian gantung kedua untuk kipas siling.\n(ii)\nMS 1220: Performance and Construction of Electric Circulating Fans and Regulators\niaitu ujian terhadap prestasi kecekapan tenaga untuk kipas siling.\nPendingin hawa\n(i)\nSambungan litar secara terus kepada pendingin hawa adalah tidak dibenarkan.\nSambungan hendaklah melalui aksesori elektrik seperti suis, soket alir keluar\n13A / 15A atau pengasing.\n(ii)\nSuis, soket alir keluar 13A / 15A atau pengasing yang digunakan hendaklah\ndisambung ke pemutus litar dengan kadaran yang bersesuaian untuk tujuan\npengasingan sekiranya memerlukan senggaraan atau kecemasan.\n(iii)\nPendingin hawa yang melebihi 3HP hendaklah disambung terus secara tetap\n35\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\nkepada pemutus litar / fius dengan kadaran yang bersesuaian.\n(n)\nSoket alir keluar bersama Extra Low Voltage (ELV) port berkadaran 13A mestilah\nmematuhi standard MS 589-2 dan MS IEC 60950-1 manakala bagi soket alir keluar\nbersama ELV port berkadaran 15A mestilah mematuhi standard MS 1577 dan"
+    },
+    {
+      "id": "Ms Iec 60950-1.",
+      "title": "Ms Iec 60950-1.",
+      "subsections": [],
+      "text": "(o)\nPengecas Kereta Elektrik hendaklah mematuhi standard Electric Hybrid Vehicle\n(EHV), Electric Vehicles Supply Equipment (EVSE) IEC 61851, IEC 62196, IEC 62752 atau\nIEC 62893 dan standard lain yang akan ditetapkan oleh Suruhanjaya dari semasa ke\nsemasa.\n(p)\nSistem Solar PV - Pemasangan sistem solar PV hendaklah merujuk kepada Garis\nPanduan yang telah dikeluarkan oleh Suruhanjaya.\n(q)\nPenggunaan pemutus litar sama ada dari jenis Residual Current Circuit Breaker (RCCB)\natau Residual Current Circuit Breaker with Overcurrent (RCBO) protection hendaklah\nyang telah diluluskan oleh Suruhanjaya dan mempunyai label ST-SIRIM.\n(r)\nRCD hendaklah dari jenis kendalian arus, ELCB untuk jenis kendalian voltan tidak\nboleh digunakan.\n36\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Pembumian",
+      "title": "Pembumian",
+      "subsections": []
+    },
+    {
+      "id": "Pepasangan",
+      "title": "Pepasangan",
+      "subsections": []
+    },
+    {
+      "id": "Elektrik",
+      "title": "Elektrik",
+      "subsections": [],
+      "text": "37\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "10. Pembumian Pepasangan Elektrik",
+      "title": "10. Pembumian Pepasangan Elektrik",
+      "subsections": [],
+      "text": "10.1 Pembumian\n(a)\nPembumian adalah suatu sistem sambungan yang dibuat di antara logam-logam\ndalam pemasangan pendawaian elektrik dengan jisim am bumi.\n(b)\nPembumian bertujuan bagi mengadakan laluan mudah (dengan galangan atau\nrintangan yang rendah) ke bumi supaya sistem perlindungan beroperasi dengan\nberkesan dan bagi menjamin keselamatan manusia atau pengguna daripada bahaya\nrenjatan elektrik apabila terjadi arus bocor ke bumi.\n(c)\nSecara amnya, sistem pepasangan elektrik dibumikan bagi tujuan berikut:\n(i)\nKeselamatan;\n(ii) Sistem perlindungan;\n(iii) Menghadkan voltan berlebihan;\n(iv) Mengadakan laluan nyahcas; dan\n(v) Keperluan undang-undang.\n10.2 Pembahagian Pembumian\nPembumian secara amnya dikategorikan kepada dua (2) bahagian iaitu:\n(a)\nPembumian Sistem\n(i)\nTujuan pembumian sistem digunakan adalah untuk mengasingkan sistem\napabila berlaku kerosakan.\n(ii) Mengehadkan beza upaya antara konduktor yang tidak bertebat di sesuatu\nkawasan.\n(iii) Mengehadkan berlakunya voltan berlebihan (over voltage) dalam keadaan\nyang berbeza.\n(b)\nPembumian Kelengkapan\n(i)\nTujuan pembumian kelengkapan dilakukan adalah untuk memberikan\nperlindungan kepada manusia atau pengguna.\n(ii) Jika suatu punca yang hidup menyentuh badan kelengkapan, tenaga elektrik\nakan mengalir ke bumi dan arus tidak akan mengalir melalui badan manusia\natau pengguna. Ini disebabkan badan manusia mempunyai rintangan yang\nlebih tinggi berbanding dengan rintangan ke bumi.\n10.3 Jenis dan Fungsi Aksesori Pembumian\n(a)\nElektrod Bumi\nJenis elektrod yang digunakan untuk pendawaian rumah kediaman ialah rod besi\nbersalut kuprum (copper jacketed steel core rod).\n(b)\nKonduktor Pengikat Utama (Equipotential Bonding)\nKonduktor yang disambungkan di antara punca bumi pengguna ke bahagian logam\nterdedah. Saiz minima kabel adalah 10 mm².\n38\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n(c)\nKonduktor Pelindung\nKonduktor yang disambungkan di antara punca bumi pengguna ke bahagian lain\npemasangan yang memerlukan pembumian yang saiznya adalah sebagaimana di\nbawah:\n(i)\nSama dengan saiz kabel fasa sehingga 16 mm².\n(ii) 16 mm² jika saiz kabel fasa di antara 16 mm² hingga 35 mm².\n(iii) Separuh dari saiz kabel fasa jika saiz kabel fasa melebihi 35 mm².\n(d)\nKonduktor Pembumian\n(i)\nKonduktor pembumian hendaklah dibuat dari bahan yang boleh diterima dan\nmempunyai luas keratan rentas yang mencukupi dengan satu atau lebih plat\nbumi, paip atau rod hendaklah diadakan.\n(ii) Sistem pembumian itu hendaklah disambung ke bumi dan disenggarakan\ndengan berkesan.\n39\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\nRajah 10.1: Ilustrasi Terma Pembumian (Earthing) dan Konduktor Pelindung\n(Protective Conductor)\n10.4 Penyusunan Pembumian Menggunakan Sistem TT\n(a)\nHuruf pertama menunjukkan susunan sistem pembumian dari pihak pembekal\nelektrik.\nT- pertama : Menunjukkan sistem bekalan ini menyediakan pembumian sendiri.\n(b)\nHuruf kedua menunjukkan penyusunan pembumian dalam pemasangan pengguna.\nT- kedua : Menunjukkan semua bingkai logam alat elektrik dan lain-lain disambung\nterus ke bumi.\n40\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n(c)\nPenyusunan pembumian menggunakan sistem TT adalah seperti di Rajah 10.2:\nPunca Bekalan"
+    },
+    {
+      "id": "L1",
+      "title": "L1",
+      "subsections": []
+    },
+    {
+      "id": "L2",
+      "title": "L2",
+      "subsections": []
+    },
+    {
+      "id": "L3",
+      "title": "L3",
+      "subsections": []
+    },
+    {
+      "id": "N",
+      "title": "N",
+      "subsections": [],
+      "text": "Pepasangan Pengguna\nKelengkapan\nElektrik di\ndalam\nPepasangan\nPengguna\nPemasangan Elektrod Bumi\nBahagian-Bahagian\nKonduktor Terdedah\nPemasangan Elektrod Bumi\nRajah 10.2: Sistem TT bagi Fasa Tunggal dan Fasa Tiga\n10.5 Bahagian yang Perlu Dibumikan\n(a)\nSemua struktur logam dalam sistem pendawaian (yang bukan membawa arus seperti\nsalutan logam, perisai pembuluh, salur, sesalur dawai katenari dan sebagainya).\n(b)\nSemua bahagian logam terdedah seperti jeriji besi, pagar, struktur rangka bumbung\nyang diperbuat dari logam dan sebagainya.\n10.6 Bahagian yang Tidak Perlu Dibumikan\n(a)\nLogam pendek yang diasingkan sebagai perlindungan mekanik bagi kabel yang\nmempunyai sarung bukan logam selain pembuluh yang disambung sebagai tempat\nlaluan masuk antara bangunan dan pembuluh untuk melindungi kabel lampu-lampu\nnyahcas.\n(b)\nKlip logam untuk memasang kabel.\n(c)\nPenutup lampu yang dibuat daripada logam.\n(d)\nLogam kecil seperti skru dan plat nama yang diasingkan dengan menggunakan\npenebat.\n(e)\nRantai logam untuk menggantungkan lampu dan peralatannya.\n(f)\nLogam peralatan lampu untuk lampu berfilamen di atas lantai yang kalis air.\n41\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n10.7 Penamatan di Bumi\n(a)\nPenamatan di bumi adalah seperti di Rajah 10.3.\n(b)\nKotak Pembumian (Earth Chamber) adalah dari jenis konkrit atau PVC.\n(c)\nElektrod bumi adalah dari jenis besi bersalut kuprum.\nKonduktor Bumi\nKotak Pembumian (Earth Chamber)\nKlip\nElektrod Bumi\nRajah 10.3: Penamatan di Bumi\n10.8 Rintangan Elektrod Bumi\n(a)\nNilai rintangan elektrod bumi bagi pepasangan yang dilindungi oleh PAB hendaklah\nkurang daripada 200 Ω.\n(b)\nWalau apa pun perenggan (a), nilai rintangan elektrod bumi bagi suatu pepasangan\nyang dilengkapi dengan sistem perlindungan kilat hendaklah kurang daripada 10 Ω.\n42\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Pemeriksaan",
+      "title": "Pemeriksaan",
+      "subsections": []
+    },
+    {
+      "id": "Dan Ujian",
+      "title": "Dan Ujian",
+      "subsections": []
+    },
+    {
+      "id": "Pendawaian",
+      "title": "Pendawaian",
+      "subsections": []
+    },
+    {
+      "id": "Elektrik",
+      "title": "Elektrik",
+      "subsections": [],
+      "text": "43\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n11. PEMERIKSAAN DAN UJIAN PENDAWAIAN ELEKTRIK\n11.1 Kehendak Perundangan\n(a)\nPeraturan 12(1) dan 12(2) PPE 1994 menyatakan setiap pendawaian dalam sesuatu\npepasangan perlu diselia oleh Pendawai dengan Sekatan Fasa Tunggal atau Sekatan\nFasa Tiga. Apabila siap, Pendawai berkenaan hendaklah memperakukan suatu\nPerakuan Penyeliaan dan Penyiapan.\n(b)\nPeraturan 13(1) dan 13(2) PPE 1994 menyatakan sesuatu pepasangan, apabila siap\npendawaian atau pendawaian semula hendaklah diuji oleh Pendawai dengan Sekatan\nFasa Tunggal atau oleh Pendawai dengan Sekatan Fasa Tiga yang diberikuasa untuk\nmenguji mana-mana pepasangan dan yang hendaklah mengesahkan Perakuan\nUjian bagi pepasangan itu.\n(c)\nPeraturan 14(1) PPE 1994 menyatakan supaya Perakuan Penyeliaan dan Penyiapan\ndan Perakuan Ujian dalam Peraturan 12 dan 13 hendaklah masing-masing dalam\nBorang G dan H yang ditetapkan dalam Jadual Pertama.\n11.2 Pengujian Pepasangan Pendawaian\n(a)\nSetelah sesuatu pendawaian siap dipasang, beberapa pengujian terhadap\npepasangan pendawaian perlu dilakukan bagi pengesahan kendalian litar\npendawaian dan memastikan peralatan dipasang selamat untuk digunakan.\n(b)\nSebelum pengujian dijalankan, proses pemeriksaan hendaklah dibuat.\n(c)\nKeputusan pemeriksaan / penyeliaan dan pengujian hendaklah menggunakan\nBorang G (seperti Lampiran VIII) dan Borang H (seperti Lampiran IX).\n(d)\nUntuk pengesahan Perakuan Ujian bagi Borang H, ujian-ujian berikut hendaklah\ndilakukan ke atas pendawaian tersebut:\n(i)\nUjian Keterusan\n(ii) Ujian Rintangan Penebatan\n(iii) Ujian Kekutuban\n(iv) Ujian Rintangan Elektrod Bumi\n(v) Ujian PAB\n(vi) Ujian Galangan Gelung Bumi (Earth Loop Impedance Test)\n(e)\nBorang G dan H adalah sah untuk digunakan selagi pendawaian pepasangan\ntersebut tidak diubah. Sekiranya terdapat pendawaian tambahan, maka Borang G\ndan H terbatal dengan sendirinya.\n(f)\nJika Borang G dan H telah terbatal maka Borang G dan H yang baharu perlulah\ndibuat sebelum menerima bekalan tenaga daripada atau diberi bekalan tenaga oleh\npemegang lesen.\n(g)\nSebarang pengeluaran semula Borang G dan H bagi pepasangan domestik, mestilah\ndilakukan oleh Kontraktor Elektrik dan orang kompeten.\n44\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n(h)\nAdalah menjadi tanggungjawab Kontraktor Elektrik dan orang kompeten untuk\nmemastikan ujian tersebut dijalankan sekali lagi dan sebarang salah laku di pihak\nKontraktor Elektrik dan orang kompeten akan menyebabkan tindakan berdasarkan\nkepada undang-undang akan dikenakan terhadap kedua-dua mereka tersebut.\n11.2.1 Ujian Keterusan\nTerdapat tiga (3) Ujian Keterusan Litar Akhir yang utama:\n(a) Ujian Keterusan Konduktor Pelindung\n(i)\nUjian ini bertujuan untuk memastikan semua konduktor pelindung\ndisambung secara betul dan berkesan (keterusan yang baik serta\nrintangan yang rendah).\n(ii)\nAlat uji yang digunakan adalah Jangka Pelbagai (Julat Ohm) atau Jangka\nOhm.\n(iii)\nKaedah Pengujian adalah seperti berikut:\n(aa) Pastikan suis utama, PAB dan MCB dalam litar-buka (switch off) dan\nsemua beban ditanggalkan.\n(ab) Sambung test lead penguji seperti di Rajah 11.1.\n(ac) Nilai bacaan jangka hendaklah kurang daripada 1 Ohm.\nRajah 11.1:   Ujian Keterusan Konduktor Pelindung\n(b) Ujian Keterusan Konduktor Hidup dan Neutral (Litar Lampu)\n(i)\nUjian ini bertujuan untuk memastikan setiap konduktor mempunyai\nketerusan yang baik di sepanjang litar.\n(ii)\nAlat uji yang digunakan adalah Jangka Pelbagai (Julat Ohm) atau Jangka\nOhm.\n(iii)\nKaedah pengujian adalah seperti berikut:\n(aa) Suis utama, PAB dan MCB dalam keadaan litar-buka (switch off).\n(ab) Semua beban hendaklah ditanggalkan.\n(ac) Suis dalam keadaan litar-tutup (switch on).\n(ad) Fius atau pemutus litar akhir hendaklah ditanggalkan.\n45\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n(ae) Jalankan ujian sebagaimana Rajah 11.2.\nRajah 11.2:   Ujian Keterusan Konduktor Hidup dan Neutral\n(c) Ujian Keterusan Konduktor Litar Akhir Gelang\n(i)\nUjian ini bertujuan untuk memastikan setiap konduktor mempunyai\nketerusan di sepanjang litar gelang.\n(ii)\nAlat uji yang digunakan adalah Jangka Pelbagai (Julat Ohm) atau Jangka\nOhm.\n(iii)\nKaedah Pengujian adalah seperti berikut:\n(aa) Tanggalkan kedua-dua punca konduktor hidup dari MCB, konduktor\nneutral dari terminal neutral dan konduktor bumi dari terminal\nbumi di papan agihan.\n(ab) Sambungkan test lead penguji seperti Rajah 11.3 (E-E).\n(ac) Ulang tatacara bagi (L-L) dan (N-N).\n(ad) Nilai bacaan jangka hendaklah kurang daripada 1 Ohm.\nRajah 11.3:   Ujian Keterusan Konduktor Akhir Gelang\n46\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n11.2.2 Ujian Rintangan Penebatan\n(a) Ujian ini bertujuan untuk:\n(i)\nMemastikan tiada kebocoran arus antara konduktor fasa dengan fasa,\nkonduktor fasa dengan neutral dan konduktor fasa dengan bumi.\n(ii)\nMenguji ketahanan penebatan kabel.\n(b) Alat uji yang digunakan adalah Penguji Rintangan Penebatan (Insulation\nResistance Tester). Voltan kendalian adalah DC dengan keupayaan voltan 250V\nA.T atau 500V A.T.\n(c) Kaedah pengujian adalah seperti berikut:\n(i)\nSuis utama hendaklah pada kedudukan litar-buka (switch off).\n(ii)\nSemua beban hendaklah ditanggalkan.\n(iii)\nSuis kawalan litar hendaklah pada kedudukan litar–tutup (switch on).\n(iv)\nSPD dan soket alir keluar dengan Universal Serial Bus (USB) jika ada,\nhendaklah diasingkan atau pada kedudukan litar-buka (switch off) semasa\npengujian ini dijalankan.\n(v)\nJalankan ujian sebagaimana Rajah 11.4. Bagi lokasi pengujian, rujuk\nJadual 11.1. Manakala, bagi nilai rintangan penebatan pula boleh merujuk\nkepada Jadual 11.2.\nPengujian di Unit\nPengguna Fasa Tunggal\nPengujian di Unit\nPengguna Fasa Tiga\nPengujian di Litar\nAkhir Lampu\nPengujian di Litar Soket Alir\nKeluar 13A – Litar Jejari dan\nLitar Gegelang\nL&N\nR&Y\nB&N\nL&N\nL&N\nL&E\nY&B\nR&E\nL&E\nL&E\nN&E\nR&B\nY&E\nN&E\nN&E"
+    },
+    {
+      "id": "-",
+      "title": "-",
+      "subsections": [],
+      "text": "R&N\nB&E"
+    },
+    {
+      "id": "-",
+      "title": "-",
+      "subsections": []
+    },
+    {
+      "id": "-",
+      "title": "-",
+      "subsections": []
+    },
+    {
+      "id": "-",
+      "title": "-",
+      "subsections": [],
+      "text": "Y&N\nN&E"
+    },
+    {
+      "id": "-",
+      "title": "-",
+      "subsections": []
+    },
+    {
+      "id": "-",
+      "title": "-",
+      "subsections": [],
+      "text": "Jadual 11.1:   Lokasi Pengujian Rintangan Penebatan yang Perlu Dijalankan\nVoltan Nominal Litar (Volts)\nVoltan Ujian A.T (Volts)\nRintangan Penebatan\nTerendah (MegaOhms)\nLitar voltan amat rendah yang mendapat\nbekalan daripada isolating transformer /"
+    },
+    {
+      "id": "Selv",
+      "title": "Selv",
+      "subsections": [
+        {
+          "id": "0.5",
+          "title": "Sehingga dan termasuk 500V kecuali",
+          "subsections": [],
+          "text": "kes-kes di atas\n500"
+        },
+        {
+          "id": "1.0",
+          "title": "Lebih 500V",
+          "subsections": []
+        }
+      ],
+      "text": "250"
+    },
+    {
+      "id": "1,000",
+      "title": "1,000",
+      "subsections": [
+        {
+          "id": "1.0",
+          "title": "Jadual 11.2:   Nilai Terendah bagi Rintangan Penebatan yang Dijalankan",
+          "subsections": [],
+          "text": "47\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\nRajah 11.4: Ujian Rintangan Penebatan\n11.2.3 Ujian Kekutuban\nUjian ini bertujuan untuk:\n(a) Memastikan setiap fius atau kawalan kutub tunggal (satu kutub) dan peranti\nperlindungan disambung pada konduktor fasa sahaja.\n(b) Memastikan sambungan pada soket alir keluar bagi setiap konduktor fasa,\nneutral dan bumi disambung pada terminal yang betul.\n(c) Memastikan alat uji yang digunakan adalah Jangka Pelbagai (Julat Ohm) atau\nJangka Ohm.\n(d) Kaedah pengujian adalah seperti berikut:\n(i)\nSuis utama hendaklah pada kedudukan litar-buka (switch off).\n(ii)\nSemua beban hendaklah ditanggalkan.\n(iii)\nSuis kawalan litar hendaklah pada kedudukan litar-tutup (switch on).\n(iv)\nUjian dijalankan sebagaimana Rajah 11.5.\n48\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n(v)\nMenguji suis dan alat kawalan kutub tunggal pada konduktor fasa.\n(vi)\nMenguji punca sambungan soket keluaran.\n(vii) Menguji sambungan menggunakan pemegang lampu jenis Edison skru.\n(viii) Nilai bacaan jangka hendaklah kurang daripada 1 Ohm.\n(ix)\nPintasan hendaklah dibuat antara terminal fasa dan konduktor pelindung\npada setiap soket alir keluar litar gelang yang hendak diuji.\nRajah 11.5:   Ujian Kekutuban\n11.2.4 Ujian Rintangan Elektrod Bumi\nUjian ini bertujuan untuk:\n(a) Memastikan elektrod yang ditanam itu tidak berada dalam kawasan rintangan\nbertindih dengan elektrod lain.\n(b) Mengetahui kesesuaian kedudukan elektrod yang ditanam.\n(c) Menguji rintangan elektrod bumi.\nAlat uji yang digunakan adalah Penguji Rintangan Bumi (Earth Resistance Tester).\nKaedah pengujian adalah seperti berikut:\n(i)\nTerminal ‘E’ disambungkan ke elektrod yang hendak diuji (konduktor\nhijau). Rujuk Rajah 11.6.\n(ii)\nTerminal ‘P’ disambungkan pada pancang voltan (spike potential)\n(konduktor kuning) dengan jarak 10 meter daripada elektrod bumi.\n(iii)\nTerminal ‘C’ disambungkan pada pancang arus (spike current) (konduktor\nmerah) pada jarak 20 meter daripada elektrod bumi.\n49\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\nRajah 11.6:   Pengukuran Rintangan Elektrod Bumi\n(iv)\nUjian hendaklah diulang sekurang-kurangnya tiga (3) kali, bertujuan\nuntuk mengelakkan bacaan tidak tepat disebabkan kawasan rintangan\nbertindih.\n(aa) Rekodkan bacaan pertama (Z1). Rujuk Rajah 11.7.\nContoh : Z1 = 10 Ω\n(ab) Ubah pancang voltan sejauh 6 meter dari kedudukan asal dan\nrekodkan bacaan kedua (Z2)\nContoh : Z2 = 10 Ω\n(ac) Ubah pancang voltan sejauh 6 meter dari kedudukan asal dan\nrekodkan bacaan kedua (Z3)\nContoh : Z3 = 10 Ω\nRajah 11.7:   Ujian Rintangan Elektrod Bumi\n(ad) Keputusan: Daripada ketiga-tiga nilai rintangan, dapatkan nilai\npurata bagi menentukan nilai rintangan elektrod bumi yang diuji.\nZ=\nZ1 + Z2 + Z3\n3\nZ=\n10 + 10 + 10\n= 10 Ω\n3\n50\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n11.2.5 Ujian Peranti Arus Baki\n(a) Ujian ini bertujuan untuk memastikan PAB terpelantik dalam masa yang\nditetapkan apabila berlaku kebocoran arus ke bumi.\n(b) Alat uji yang digunakan adalah Digital RCD Tester / RCCB Tester.\n(c) Kaedah Pengujian 1:\n(i)\nMenggunakan Butang Tekan Trip.\n(ii)\nMenekan Butang Trip yang bertanda ‘T’ atau ‘Test’ yang terdapat pada\nPAB dan perhatikan sama ada ia terpelantik atau tidak. Ujian ini tidak\ndapat menentukan kepekaan PAB dan masa yang diambil untuk ianya\nterpelantik.\n(d) Kaedah Pengujian 2:\n(i)\nMenggunakan Penguji PAB / RCD Tester.\nAlat penguji ini lengkap dengan satu palam 13A yang boleh disambung\nkepada soket alir keluar 13A. Pilih kepekaan PAB yang sama dengan\nkepekaan PAB yang hendak diuji, untuk menentukan sama ada PAB\nboleh terpelantik. Masa yang diambil untuk terpelantik mestilah tidak\nmelebihi 200 milisaat.\n(ii)\nTatacara menjalankan ujian:\n(aa) Laraskan suis pilihan mengikut kepekaan PAB yang diuji. Contohnya:\n100 mA / 0.1 A.\n(ab) Laraskan suis operasi kepada ‘No Trip’ (½ Rated mA = 50%),\nsambungkan palam 3-pin pada soket alir keluar 13 A.\n(ac) ‘On’ soket alir keluar 13 A- pastikan lampu P-N dan P-E menyala. Ini\nmenunjukkan kekutuban adalah betul.\n(Nota: Sekiranya kedua-dua lampu di atas tidak menyala, ujian\ntidak boleh diteruskan.)\n(ad) Tekan butang uji - Bacaan menunjukkan tidak kurang daripada\n200 milisaat dan pada masa yang sama, lampu ‘test’ menyala dan\nlampu P-N dan P-E tidak menyala. Pada waktu ini PAB tidak akan\nterpelantik.\n(ae) Tukarkan suis pilihan kepada 180o (gelombang +ve), ulang langkah\n(ad).\n(af) Ubah suis operasi kepada ‘Trip’ (Rated mA = 100%).\n(ag) Tekan butang uji - PAB akan terpelantik dan bacaan yang ditunjukkan\nmestilah tidak melebihi 200 milisaat.\n(ah) Tukarkan suis pilihan kepada 0o (gelombang –ve).\n(ai) Tekan butang uji - PAB akan terpelantik dan bacaannya mestilah\ntidak melebihi 200 milisaat.\n(aj) Ujian di atas hendaklah dibuat berulang kali sehinggalah mendapat\nbacaan yang hampir tepat.\n(ak) Rekodkan keputusan ujian.\n(al) Tukarkan suis operasi kepada ‘Fast Trip’ dan tekan butang uji. PAB\nakan terpelantik dalam masa tidak melebihi daripada 40 milisaat.\nLakukan berulangkali pada 0o atau 180o.\n51\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\n(e) Keputusan ujian hendaklah sepertimana yang ditunjukkan dalam Jadual 11.3\nberikut:\nBil.\nKedudukan Suis Beroperasi\nMasa Kendalian\nKeputusan"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "title": "No Trip",
+      "subsections": [],
+      "text": "> 200 ms\nTidak terpelantik"
+    },
+    {
+      "id": "2",
+      "title": "Trip",
+      "subsections": [],
+      "text": "< 200 ms\nTerpelantik"
+    },
+    {
+      "id": "3",
+      "title": "Fast Trip",
+      "subsections": [],
+      "text": "< 40 ms\nTerpelantik\nJadual 11.3:   Keputusan Ujian Peranti Arus Baki\n11.2.6 Ujian Galangan Gelung Bumi (Earth Loop Impedance Test)\n(a) Tujuan ujian adalah bagi mengetahui nilai galangan gelung bumi dalam\npemasangan dan menentukan jenis perlindungan kebocoran ke bumi yang\nsesuai digunakan.\n(b) Terdapat dua (2) jenis ujian galangan gelung bumi iaitu:\n(i)\nUjian gelung talian - bumi\n(ii)\nUjian gelung neutral - bumi\n(c) Alat uji yang digunakan adalah Penguji Galangan Gelung Bumi (Earth Loop\nImpedance Tester).\n(d) Kaedah Pengujian adalah seperti berikut:\n(i)\nBekalan utama diputuskan (suis utama dibuka).\n(ii)\nPastikan semua ikatan pelindung utama (main protective bonding)\ndisambungkan ke terminal pembumian utama. Sekiranya kabel pembekal\nrosak, arus kerosakan akan mengalir ke bahagian lain pemasangan.\n(iii)\nPutuskan konduktor pembumian daripada terminal pembumian utama.\n(iv)\nSambungkan klip bumi ke konduktor pembumian yang terputus,\nkemudian sambungkan probe talian jangka penguji ke terminal talian\nbekalan suis utama.\n(v)\nTekan butang ‘Test’ dan ambil bacaan nilai galangan.\n(vi)\nUntuk pemasangan Fasa Tunggal, rekodkan nilai galangan gelung bumi\nyang diperolehi.\n(vii) Untuk pemasangan Fasa Tiga, ulangi ujian ini untuk semua konduktor\ntalian. Bacaan yang diperolehi direkodkan sebagai nilai galangan gelung\nbumi luaran (Ze).\n(viii) Sambungkan semula konduktor pembumian\npembumian utama setelah selesai ujian.\n52\nkepada\nterminal\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Lampiran",
+      "title": "Lampiran",
+      "subsections": [],
+      "text": "53\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Senarai Lampiran",
+      "title": "Senarai Lampiran",
+      "subsections": [],
+      "text": "Bil.\nLampiran\nTajuk"
+    },
+    {
+      "id": "1",
+      "title": "Lampiran I",
+      "subsections": [],
+      "text": "Keperluan Keselamatan Kerja-Kerja Pendawaian Elektrik di\nPepasangan Domestik"
+    },
+    {
+      "id": "2",
+      "title": "Lampiran II",
+      "subsections": [],
+      "text": "Jadual Rujukan Kaedah Pemasangan untuk Keupayaan Membawa\nArus (Table B.52.1 IEC 60364-5-52 2009)"
+    },
+    {
+      "id": "3",
+      "title": "Lampiran III",
+      "subsections": [],
+      "text": "Jadual Keupayaan Membawa Arus (Single Core Cable) (Table B.52.2"
+    },
+    {
+      "id": "Iec 60364-5-52 2009)",
+      "title": "Iec 60364-5-52 2009)",
+      "subsections": []
+    },
+    {
+      "id": "4",
+      "title": "Lampiran IV",
+      "subsections": [],
+      "text": "Jadual Susut Voltan (Single Core Cable) Table 4D1B"
+    },
+    {
+      "id": "5",
+      "title": "Lampiran V",
+      "subsections": [],
+      "text": "Jadual Keupayaan Membawa Arus (Multicore Cable) (Table B.52.4 IEC"
+    },
+    {
+      "id": "60364-5-52 2009)",
+      "title": "60364-5-52 2009)",
+      "subsections": []
+    },
+    {
+      "id": "6",
+      "title": "Lampiran VI",
+      "subsections": [],
+      "text": "Jadual Susut Voltan (Multicore Cable) Table 4D4B"
+    },
+    {
+      "id": "7",
+      "title": "Lampiran VII",
+      "subsections": [],
+      "text": "Contoh Pengiraan Susut Voltan (Voltage Drop)"
+    },
+    {
+      "id": "8",
+      "title": "Lampiran VIII",
+      "subsections": [],
+      "text": "Borang G (Perakuan Penyeliaan dan Penyiapan)"
+    },
+    {
+      "id": "9",
+      "title": "Lampiran IX",
+      "subsections": [],
+      "text": "Borang H (Perakuan Pengujian)"
+    },
+    {
+      "id": "10",
+      "title": "Lampiran X",
+      "subsections": [],
+      "text": "Simbol"
+    },
+    {
+      "id": "11",
+      "title": "Lampiran XI",
+      "subsections": [],
+      "text": "Maklumat Perhubungan Suruhanjaya Tenaga\n54\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Lampiran I",
+      "title": "Lampiran I",
+      "subsections": []
+    },
+    {
+      "id": "Keperluan Keselamatan Kerja-Kerja Pendawaian Elektrik",
+      "title": "Keperluan Keselamatan Kerja-Kerja Pendawaian Elektrik",
+      "subsections": []
+    },
+    {
+      "id": "Di Pepasangan Domestik",
+      "title": "Di Pepasangan Domestik",
+      "subsections": [
+        {
+          "id": "1.1",
+          "title": "Keperluan Keselamatan",
+          "subsections": [],
+          "text": "Keperluan keselamatan dalam kerja-kerja pendawaian elektrik hendaklah dipatuhi bagi\nmengelakkan apa-apa kemalangan sama ada yang boleh menyebabkan kecederaan\nfizikal, kehilangan nyawa atau harta benda. Kegagalan mengikuti peraturan-peraturan\nkeselamatan boleh menyebabkan pekerja, pengguna atau orang awam terkena renjatan\nelektrik.\nDi samping itu, amalan langkah-langkah keselamatan ini juga dapat memupuk pekerja\natau pengguna elektrik yang berdisiplin dan sentiasa mengutamakan keselamatan."
+        },
+        {
+          "id": "1.2",
+          "title": "Langkah Keselamatan",
+          "subsections": [],
+          "text": "Keperluan keselamatan berikut hendaklah dipatuhi sepanjang masa apabila menjalankan\nkerja-kerja elektrik di dalam bangunan kediaman.\n(a)\n(b)\nKeselamatan Diri Sendiri\n(i)\nMempunyai peralatan-peralatan perlindungan diri (PPE) yang sesuai seperti\nkasut keselamatan, sarung tangan, topi keselamatan atau lain-lain yang perlu\napabila berada di tempat kerja.\n(ii)\nMemakai pakaian keselamatan yang sesuai mengikut kerja yang akan\ndilakukan.\n(iii)\nTidak memakai barang kemas atau perhiasan seperti cincin, jam tangan, rantai\ndan sebagainya semasa menjalankan kerja-kerja elektrik.\nKeselamatan di Tempat Kerja\n(i)\nMempunyai pengetahuan mengenai bahaya-bahaya kerja elektrik yang akan\ndilakukan dan bagaimana mengawal bahaya-bahaya tersebut.\n(ii)\nSentiasa mematuhi peraturan-peraturan keselamatan di tempat kerja yang\ntelah ditetapkan.\n(iii)\nMemastikan bekalan elektrik dalam keadaan litar-buka (switch off) sebelum\nkerja-kerja dijalankan (jika berkenaan).\n(iv)\nMempunyai pengetahuan serta mengamalkan sikap berhati-hati dan tenang\nsemasa bekerja, menjaga kebersihan dan persekitaran tempat kerja, tidak\nmerokok dan sentiasa mengamalkan koordinasi keselamatan dengan rakan\nkerja.\n(v)\nSemasa bekerja di tempat tinggi, pekerja hendaklah menggunakan kelengkapan\nsokongan yang bersesuaian seperti tangga kayu atau aluminium, perancah\nbesi atau platform kerja, tali pinggang keselamatan atau lain-lain peralatan\nyang perlu bagi memastikan kerja-kerja dapat dijalankan dalam keadaan\nselamat.\n55\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+        },
+        {
+          "id": "1.3",
+          "title": "(f)",
+          "subsections": [],
+          "text": "Menggunakan kelengkapan elektrik yang berkeadaan baik dan selamat untuk\ndipakai serta memastikan alat perlindungan PAB yang berkepekaan 30 mA\ndipasang bagi melindungi pekerja dari bahaya kebocoran arus.\n(g)\nPastikan kabel elektrik bekalan sementara yang terdedah ditempat kerja\ndilindungi oleh pelindung mekanikal.\n(h)\nSekiranya terdapat bahan-bahan mudah terbakar atau terkakis, langkahlangkah keselamatan perlu diambil berpandukan kepada peraturan\nkeselamatan yang berkaitan.\nBahaya Renjatan Elektrik\n(a)\nRenjatan Elektrik\nRenjatan elektrik boleh berlaku disebabkan oleh sentuhan langsung atau sentuhan\ntidak langsung.\n(i)\nSentuhan Langsung:\nSentuhan langsung bermaksud pekerja atau pengguna mendapat renjatan\nelektrik dengan menyentuh konduktor atau kabel hidup secara langsung.\n(ii)\nSentuhan Tidak Langsung:\nRenjatan elektrik yang berlaku disebabkan sentuhan sesuatu yang bersambung\ndengan pepasangan elektrik (bukan sentuhan secara langsung dengan kabel\natau konduktor hidup), yang mungkin disebabkan oleh kerosakan peralatan\natau penebat yang menyebabkan kebocoran arus.\n(b)\nPunca Berlaku Renjatan\n(i)\nCara Kerja atau Tindakan Tidak Selamat\n• Membuat Kerja-Kerja Elektrik Tanpa Mengasingkan Bekalan\nKerja-kerja senggaraan atau pengujian litar tanpa mengasingkan bekalan\nberkemungkinan besar boleh menyebabkan terjadinya renjatan elektrik.\n• Tidak Mematuhi Prosedur Kerja Selamat\nSetiap pekerja hendaklah sentiasa mematuhi prosedur kerja selamat yang\ntelah ditetapkan oleh peraturan dan piawaian bagi mengelakkan daripada\nberlakunya renjatan elektrik.\n(ii)\nKecacatan pada Sistem Elektrik\n• Arus Bocor\nArus bocor atau arus bocor ke bumi akan menyebabkan bingkai logam\nmenjadi hidup dan bertenaga. Ini boleh mendatangkan bahaya renjatan\nelektrik kepada pekerja, pengguna atau orang awam jika terpegang atau\nbersentuh bingkai logam tersebut.\n• Konduktor Terdedah atau Kabel Terputus:\nKonduktor yang terdedah atau kabel yang terputus dan hidup (bertenaga)\nakan menyebabkan renjatan elektrik apabila disentuh. Hendaklah dengan\nsegera mematikan atau mengasingkan punca bekalan dan melaporkan\nkepada pihak yang bertanggungjawab.\n56\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+        },
+        {
+          "id": "1.4",
+          "title": "Pertolongan Cemas dan Asas Pemulihan Pernafasan",
+          "subsections": [],
+          "text": "(a)\nPertolongan Cemas\nPertolongan cemas ialah pertolongan awal yang diberikan kepada seseorang yang\nditimpa kemalangan, sakit atau cedera bagi mengelak keadaan mangsa menjadi\nlebih serius sementara menanti kehadiran paramedik (ambulan) atau sebelum\ndibawa ke hospital.\n(b)\nPemulihan Pernafasan\nPemulihan pernafasan hendaklah dilakukan bagi membantu mangsa yang tersekat\npernafasan akibat lemas, terkena renjatan elektrik dan sebagainya. Cara pemulihan\npernafasan dilakukan mengikut kaedah pemulihan pernafasan yang betul,\nberdasarkan panduan pertolongan cemas yang dikeluarkan oleh badan-badan\npertolongan cemas yang bertauliah.\n(c)\nKotak atau Peti Pertolongan Cemas\nKotak atau peti pertolongan cemas hendaklah disediakan oleh pemunya bangunan\natau penguasa tapak binaan atau dibawa sendiri oleh pekerja di bawah penyeliaan\norang yang bertanggungjawab."
+        },
+        {
+          "id": "1.5",
+          "title": "Program Latihan",
+          "subsections": [],
+          "text": "Majikan hendaklah melaksanakan program latihan secara berkala kepada pekerja-pekerja\nmengenai keselamatan semasa bekerja yang meliputi aspek-aspek berikut:"
+        },
+        {
+          "id": "1.6",
+          "title": "(a)",
+          "subsections": [],
+          "text": "Bahaya kerja-kerja elektrik yang akan dilakukan dan bagaimana mengawal bahayabahaya tersebut.\n(b)\nPeraturan-peraturan keselamatan di tempat kerja yang telah ditetapkan.\n(c)\nProsedur pertolongan cemas.\nPencegahan Kebakaran\nAlat Pemadam Api\nAlat pemadam api yang sesuai dan berfungsi untuk mengawal kebakaran elektrik\nhendaklah disediakan pada setiap masa di premis dan di tempat kerja."
+        },
+        {
+          "id": "1.7",
+          "title": "Orang Kompeten",
+          "subsections": [],
+          "text": "PPE menghendaki semua kerja elektrik dijalankan oleh atau di bawah seliaan langsung\norang kompeten yang berdaftar dengan Suruhanjaya. Kontraktor Elektrik yang\nmenjalankan kerja elektrik tersebut hendaklah berdaftar dengan Suruhanjaya. Oleh itu,\npemunya pepasangan hendaklah memastikan Kontraktor Elektrik yang dilantik adalah\nberdaftar dengan Suruhanjaya dan pendaftarannya adalah masih sah.\n57\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+        }
+      ]
+    },
+    {
+      "id": "Lampiran II",
+      "title": "Lampiran II",
+      "subsections": [],
+      "text": "JADUAL RUJUKAN KAEDAH PEMASANGAN UNTUK KEUPAYAAN"
+    },
+    {
+      "id": "Membawa Arus",
+      "title": "Membawa Arus",
+      "subsections": []
+    },
+    {
+      "id": "(Table B.52.1 Iec 60364-5-52 2009)",
+      "title": "(Table B.52.1 Iec 60364-5-52 2009)",
+      "subsections": [],
+      "text": "Table B.52.1 – Installation Reference Methods Forming Basis of Tabulated\nCurrent-Carrying Capacities\nTable and Column\nCurrent-Carrying Capacities for\nSingle Circuits\nThermoplastic\nInsulated\nReference Method of Installation\nThermosetting\nInsulated\nMineral\nInsulated\nAmbient\nTemperature\nFactor\nGroup\nReduction\nFactor\n2\n3\nNumber of Cores\n2\n3\n2 and 3\n2\n3\n4\n5\n6\n7\n8\n9\nRoom\nInsulated conductors\n(single-core cables) in\nconduit in a thermally\ninsulated wall"
+    },
+    {
+      "id": "A1",
+      "title": "A1",
+      "subsections": []
+    },
+    {
+      "id": "B.52.2",
+      "title": "B.52.2",
+      "subsections": [],
+      "text": "Col. 2"
+    },
+    {
+      "id": "B.52.4",
+      "title": "B.52.4",
+      "subsections": [],
+      "text": "Col. 2"
+    },
+    {
+      "id": "B.52.3",
+      "title": "B.52.3",
+      "subsections": [],
+      "text": "Col. 2"
+    },
+    {
+      "id": "B.52.5",
+      "title": "B.52.5",
+      "subsections": [],
+      "text": "Col. 2"
+    },
+    {
+      "id": "-",
+      "title": "-",
+      "subsections": []
+    },
+    {
+      "id": "B.52.14",
+      "title": "B.52.14",
+      "subsections": []
+    },
+    {
+      "id": "B.52.17",
+      "title": "B.52.17",
+      "subsections": [],
+      "text": "Room\nMulti-core cable\nin conduit in a\nthermally insulated\nwall"
+    },
+    {
+      "id": "A2",
+      "title": "A2",
+      "subsections": []
+    },
+    {
+      "id": "B.52.2",
+      "title": "B.52.2",
+      "subsections": [],
+      "text": "Col. 3"
+    },
+    {
+      "id": "B.52.4",
+      "title": "B.52.4",
+      "subsections": [],
+      "text": "Col. 3"
+    },
+    {
+      "id": "B.52.3",
+      "title": "B.52.3",
+      "subsections": [],
+      "text": "Col. 3"
+    },
+    {
+      "id": "B.52.5",
+      "title": "B.52.5",
+      "subsections": [],
+      "text": "Col. 3"
+    },
+    {
+      "id": "-",
+      "title": "-",
+      "subsections": []
+    },
+    {
+      "id": "B.52.14",
+      "title": "B.52.14",
+      "subsections": []
+    },
+    {
+      "id": "B.52.17",
+      "title": "B.52.17",
+      "subsections": [],
+      "text": "except D\n(Table B.52.19\napplies)\nInsulated conductors\n(single-core cables) in\nconduit on a wooden\nwall"
+    },
+    {
+      "id": "B1",
+      "title": "B1",
+      "subsections": []
+    },
+    {
+      "id": "B.52.2",
+      "title": "B.52.2",
+      "subsections": [],
+      "text": "Col. 4"
+    },
+    {
+      "id": "B.52.4",
+      "title": "B.52.4",
+      "subsections": [],
+      "text": "Col. 4"
+    },
+    {
+      "id": "B.52.3",
+      "title": "B.52.3",
+      "subsections": [],
+      "text": "Col. 4"
+    },
+    {
+      "id": "B.52.5",
+      "title": "B.52.5",
+      "subsections": [],
+      "text": "Col. 4"
+    },
+    {
+      "id": "-",
+      "title": "-",
+      "subsections": []
+    },
+    {
+      "id": "B.52.14",
+      "title": "B.52.14",
+      "subsections": []
+    },
+    {
+      "id": "B.52.17",
+      "title": "B.52.17",
+      "subsections": [],
+      "text": "Multi-core cable in\nconduit on a wooden\nwall"
+    },
+    {
+      "id": "B2",
+      "title": "B2",
+      "subsections": []
+    },
+    {
+      "id": "B.52.2",
+      "title": "B.52.2",
+      "subsections": [],
+      "text": "Col. 5"
+    },
+    {
+      "id": "B.52.4",
+      "title": "B.52.4",
+      "subsections": [],
+      "text": "Col. 5"
+    },
+    {
+      "id": "B.52.3",
+      "title": "B.52.3",
+      "subsections": [],
+      "text": "Col. 5"
+    },
+    {
+      "id": "B.52.5",
+      "title": "B.52.5",
+      "subsections": [],
+      "text": "Col. 5"
+    },
+    {
+      "id": "-",
+      "title": "-",
+      "subsections": []
+    },
+    {
+      "id": "B.52.14",
+      "title": "B.52.14",
+      "subsections": []
+    },
+    {
+      "id": "B.52.17",
+      "title": "B.52.17",
+      "subsections": []
+    },
+    {
+      "id": "B.52.14",
+      "title": "B.52.14",
+      "subsections": []
+    },
+    {
+      "id": "B.52.17",
+      "title": "B.52.17",
+      "subsections": []
+    },
+    {
+      "id": "-",
+      "title": "-",
+      "subsections": []
+    },
+    {
+      "id": "B.52.15",
+      "title": "B.52.15",
+      "subsections": []
+    },
+    {
+      "id": "B.52.19",
+      "title": "B.52.19",
+      "subsections": [],
+      "text": "Col. 8\nCol. 8"
+    },
+    {
+      "id": "B.52.14",
+      "title": "B.52.14",
+      "subsections": []
+    },
+    {
+      "id": "B.52.20",
+      "title": "B.52.20",
+      "subsections": []
+    },
+    {
+      "id": "B.52.14",
+      "title": "B.52.14",
+      "subsections": []
+    },
+    {
+      "id": "B.52.21",
+      "title": "B.52.21",
+      "subsections": []
+    },
+    {
+      "id": "B.52.14",
+      "title": "B.52.14",
+      "subsections": []
+    },
+    {
+      "id": "-",
+      "title": "-",
+      "subsections": [],
+      "text": "1\nSingle-core or\nmulti-core cable\non a wooden wall"
+    },
+    {
+      "id": "C",
+      "title": "C",
+      "subsections": []
+    },
+    {
+      "id": "B.52.2",
+      "title": "B.52.2",
+      "subsections": [],
+      "text": "Col. 6"
+    },
+    {
+      "id": "B.52.4",
+      "title": "B.52.4",
+      "subsections": [],
+      "text": "Col. 6"
+    },
+    {
+      "id": "B.52.3",
+      "title": "B.52.3",
+      "subsections": [],
+      "text": "Col. 6"
+    },
+    {
+      "id": "B.52.5",
+      "title": "B.52.5",
+      "subsections": [],
+      "text": "Col. 6\nMulti-core cable\nin ducts in the\nground"
+    },
+    {
+      "id": "D",
+      "title": "D",
+      "subsections": []
+    },
+    {
+      "id": "B.52.2",
+      "title": "B.52.2",
+      "subsections": [],
+      "text": "Col. 7"
+    },
+    {
+      "id": "B.52.4",
+      "title": "B.52.4",
+      "subsections": [],
+      "text": "Col. 7"
+    },
+    {
+      "id": "B.52.3",
+      "title": "B.52.3",
+      "subsections": [],
+      "text": "Col. 7"
+    },
+    {
+      "id": "B.52.5",
+      "title": "B.52.5",
+      "subsections": [],
+      "text": "Col. 7\nSheathed single-core\nor multi-core cables\ndirect in the ground"
+    },
+    {
+      "id": "D2",
+      "title": "D2",
+      "subsections": [],
+      "text": "Multi-core cable\nin free air"
+    },
+    {
+      "id": "E",
+      "title": "E",
+      "subsections": [],
+      "text": "Clearance to wall not\nless than 0.3 times\ncable diameter\nSingle-core cables,\ntouching in free air"
+    },
+    {
+      "id": "F",
+      "title": "F",
+      "subsections": [],
+      "text": "Clearance to wall\nnot less than one\ncable diameter\nSingle-core cables,\nspaced in free air\nAt least one\ncable diameter"
+    },
+    {
+      "id": "G",
+      "title": "G",
+      "subsections": [],
+      "text": "70 ˚C\nSheath"
+    },
+    {
+      "id": "B.52.6",
+      "title": "B.52.6",
+      "subsections": [],
+      "text": "105 ˚C\nSheath"
+    },
+    {
+      "id": "B.52.7",
+      "title": "B.52.7",
+      "subsections": [],
+      "text": "Col. 8\nCol. 8\nCol. 8\nCopper"
+    },
+    {
+      "id": "B.52.10",
+      "title": "B.52.10",
+      "subsections": [],
+      "text": "Copper"
+    },
+    {
+      "id": "B.52.12",
+      "title": "B.52.12",
+      "subsections": [],
+      "text": "70 ˚C\nSheath"
+    },
+    {
+      "id": "B.52.8",
+      "title": "B.52.8",
+      "subsections": [],
+      "text": "Aluminium"
+    },
+    {
+      "id": "B.52.11",
+      "title": "B.52.11",
+      "subsections": [],
+      "text": "Aluminium"
+    },
+    {
+      "id": "B.52.13",
+      "title": "B.52.13",
+      "subsections": [],
+      "text": "105 ˚C\nSheath"
+    },
+    {
+      "id": "B.52.9",
+      "title": "B.52.9",
+      "subsections": [],
+      "text": "Copper"
+    },
+    {
+      "id": "B.52.10",
+      "title": "B.52.10",
+      "subsections": [],
+      "text": "Copper"
+    },
+    {
+      "id": "B.52.12",
+      "title": "B.52.12",
+      "subsections": [],
+      "text": "70 ˚C\nSheath"
+    },
+    {
+      "id": "B.52.8",
+      "title": "B.52.8",
+      "subsections": [],
+      "text": "Aluminium"
+    },
+    {
+      "id": "B.52.11",
+      "title": "B.52.11",
+      "subsections": [],
+      "text": "Aluminium"
+    },
+    {
+      "id": "B.52.13",
+      "title": "B.52.13",
+      "subsections": [],
+      "text": "105 ˚C\nSheath"
+    },
+    {
+      "id": "B.52.9",
+      "title": "B.52.9",
+      "subsections": [],
+      "text": "Copper"
+    },
+    {
+      "id": "B.52.10",
+      "title": "B.52.10",
+      "subsections": [],
+      "text": "Copper"
+    },
+    {
+      "id": "B.52.12",
+      "title": "B.52.12",
+      "subsections": [],
+      "text": "70 ˚C\nSheath"
+    },
+    {
+      "id": "B.52.8",
+      "title": "B.52.8",
+      "subsections": [],
+      "text": "Aluminium"
+    },
+    {
+      "id": "B.52.11",
+      "title": "B.52.11",
+      "subsections": [],
+      "text": "Aluminium"
+    },
+    {
+      "id": "B.52.13",
+      "title": "B.52.13",
+      "subsections": [],
+      "text": "105 ˚C\nSheath"
+    },
+    {
+      "id": "B.52.9",
+      "title": "B.52.9",
+      "subsections": [],
+      "text": "58\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Lampiran III",
+      "title": "Lampiran III",
+      "subsections": [],
+      "text": "JADUAL KEUPAYAAN MEMBAWA ARUS (SINGLE CORE CABLE)"
+    },
+    {
+      "id": "(Table B.52.2 Iec 60364-5-52 2009)",
+      "title": "(Table B.52.2 Iec 60364-5-52 2009)",
+      "subsections": [],
+      "text": "Table B.52.2 - Current-Carrying Capacities in Amperes\nFor Methods of Installation in Table B.52.1 PVC Insulation / Two-Loaded Conductors, Copper or Aluminium Conductor Temperature: 70 °C, Ambient Temperature: 30 °C in Air, 20 °C in Ground\nInstallation Methods of Table B.52.1\nNominal\nCross-Sectional\nArea of Conductor"
+    },
+    {
+      "id": "A1",
+      "title": "A1",
+      "subsections": []
+    },
+    {
+      "id": "A2",
+      "title": "A2",
+      "subsections": []
+    },
+    {
+      "id": "B1",
+      "title": "B1",
+      "subsections": []
+    },
+    {
+      "id": "B2",
+      "title": "B2",
+      "subsections": []
+    },
+    {
+      "id": "C",
+      "title": "C",
+      "subsections": []
+    },
+    {
+      "id": "D1",
+      "title": "D1",
+      "subsections": []
+    },
+    {
+      "id": "D2",
+      "title": "D2",
+      "subsections": [
+        {
+          "id": "1.5",
+          "title": "14.5",
+          "subsections": [],
+          "text": "14"
+        },
+        {
+          "id": "17.5",
+          "title": "16.5",
+          "subsections": []
+        },
+        {
+          "id": "19.5",
+          "title": "22",
+          "subsections": [],
+          "text": "22"
+        },
+        {
+          "id": "2.5",
+          "title": "19.5",
+          "subsections": []
+        },
+        {
+          "id": "18.5",
+          "title": "24",
+          "subsections": [],
+          "text": "23\n27\n29\n28\n4\n26\n25\n32\n30\n36\n37\n38\n6\n34\n32\n41\n38\n46\n46\n48\n10\n46\n43\n57\n52\n63\n60\n64\n16\n61\n57\n76\n69\n85\n78\n83\n25\n80\n75\n101\n90\n112\n99\n110\n35\n99\n92\n125\n111\n138\n119\n132\n50\n119\n110\n151\n133\n168\n140\n156\n70\n151\n139\n192\n168\n213\n173\n192\n95\n182\n167\n232\n201\n258\n204\n230\n120\n210\n192\n269\n232\n299\n231\n261\n150\n240\n219\n300\n258\n344\n261\n293\n185\n273\n248\n341\n294\n392\n292\n331\n240\n321\n291\n400\n344\n461\n336\n382\n300\n367\n334\n458\n394\n530\n379\n427\nNote: The specifier has to consider also the load details, cable length, method of installation which are subjected to\nfurther derating.\n59\n60"
+        },
+        {
+          "id": "4.4",
+          "title": "2.8",
+          "subsections": []
+        },
+        {
+          "id": "1.75",
+          "title": "1.25",
+          "subsections": []
+        },
+        {
+          "id": "0.93",
+          "title": "0.63",
+          "subsections": []
+        },
+        {
+          "id": "0.46",
+          "title": "16",
+          "subsections": [],
+          "text": "25\n35\n50\n70\n95"
+        },
+        {
+          "id": "0.28",
+          "title": "0.29",
+          "subsections": []
+        },
+        {
+          "id": "0.30",
+          "title": "0.31",
+          "subsections": []
+        },
+        {
+          "id": "0.33",
+          "title": "x",
+          "subsections": []
+        },
+        {
+          "id": "2.8",
+          "title": "0.56",
+          "subsections": []
+        },
+        {
+          "id": "0.72",
+          "title": "1.00",
+          "subsections": []
+        },
+        {
+          "id": "1.30",
+          "title": "1.80",
+          "subsections": [],
+          "text": "z"
+        },
+        {
+          "id": "0.47",
+          "title": "0.63",
+          "subsections": []
+        },
+        {
+          "id": "0.93",
+          "title": "1.25",
+          "subsections": []
+        },
+        {
+          "id": "1.75",
+          "title": "r",
+          "subsections": []
+        },
+        {
+          "id": "0.180",
+          "title": "0.185",
+          "subsections": []
+        },
+        {
+          "id": "0.190",
+          "title": "0.195",
+          "subsections": []
+        },
+        {
+          "id": "0.20",
+          "title": "x",
+          "subsections": []
+        },
+        {
+          "id": "2.8",
+          "title": "4.4",
+          "subsections": []
+        },
+        {
+          "id": "7.3",
+          "title": "11",
+          "subsections": [],
+          "text": "18\n29\n44\n(mV/A/m)\n4"
+        },
+        {
+          "id": "0.50",
+          "title": "0.66",
+          "subsections": []
+        },
+        {
+          "id": "0.95",
+          "title": "1.25",
+          "subsections": []
+        },
+        {
+          "id": "1.75",
+          "title": "z",
+          "subsections": [],
+          "text": "Reference Methods\n1 & 11\n(Clipped direct or\non trays, touching)"
+        }
+      ],
+      "text": "2\n3\n4\n5\n6\n7\n8\nmm2\n1\nCopper"
+    },
+    {
+      "id": "Two Cables,",
+      "title": "Two Cables,",
+      "subsections": []
+    },
+    {
+      "id": "Single Phase A.C",
+      "title": "Single Phase A.C",
+      "subsections": [
+        {
+          "id": "0.49",
+          "title": "0.65",
+          "subsections": []
+        },
+        {
+          "id": "0.95",
+          "title": "1.30",
+          "subsections": []
+        },
+        {
+          "id": "1.80",
+          "title": "7.3",
+          "subsections": [],
+          "text": "6\n10\nr"
+        },
+        {
+          "id": "7.3",
+          "title": "11",
+          "subsections": []
+        },
+        {
+          "id": "4.4",
+          "title": "11",
+          "subsections": [],
+          "text": "18\n18\n29\n4\n29"
+        },
+        {
+          "id": "1.5",
+          "title": "2.5",
+          "subsections": [],
+          "text": "44\n44\n(mV/A/m)\n(mV/A/m)\n1\nmm\n3\n2\n2\n1\nReference Methods\n3&4\n(Enclosed in conduit\netc. in or on a wall)"
+        }
+      ],
+      "text": "Note: Joint reference with cable manufacturer specification."
+    },
+    {
+      "id": "Two",
+      "title": "Two",
+      "subsections": []
+    },
+    {
+      "id": "Cables,",
+      "title": "Cables,",
+      "subsections": []
+    },
+    {
+      "id": "D.C",
+      "title": "D.C",
+      "subsections": []
+    },
+    {
+      "id": "Conductor",
+      "title": "Conductor",
+      "subsections": []
+    },
+    {
+      "id": "Crosssectional",
+      "title": "Crosssectional",
+      "subsections": []
+    },
+    {
+      "id": "Area",
+      "title": "Area",
+      "subsections": [
+        {
+          "id": "0.47",
+          "title": "0.63",
+          "subsections": []
+        },
+        {
+          "id": "0.93",
+          "title": "1.25",
+          "subsections": []
+        },
+        {
+          "id": "1.75",
+          "title": "r",
+          "subsections": []
+        },
+        {
+          "id": "0.27",
+          "title": "0.27",
+          "subsections": []
+        },
+        {
+          "id": "0.28",
+          "title": "0.28",
+          "subsections": []
+        },
+        {
+          "id": "0.29",
+          "title": "x",
+          "subsections": []
+        },
+        {
+          "id": "2.8",
+          "title": "4.4",
+          "subsections": []
+        },
+        {
+          "id": "7.3",
+          "title": "11",
+          "subsections": [],
+          "text": "18\n29\n44\n(mV/A/m)\n5"
+        },
+        {
+          "id": "0.54",
+          "title": "0.69",
+          "subsections": []
+        },
+        {
+          "id": "0.97",
+          "title": "1.30",
+          "subsections": []
+        },
+        {
+          "id": "1.80",
+          "title": "z",
+          "subsections": [],
+          "text": "Reference Method\n12\n(Spaced*)"
+        },
+        {
+          "id": "0.42",
+          "title": "0.56",
+          "subsections": []
+        },
+        {
+          "id": "0.81",
+          "title": "1.10",
+          "subsections": []
+        },
+        {
+          "id": "1.50",
+          "title": "r",
+          "subsections": []
+        },
+        {
+          "id": "0.24",
+          "title": "0.25",
+          "subsections": []
+        },
+        {
+          "id": "0.26",
+          "title": "0.27",
+          "subsections": []
+        },
+        {
+          "id": "0.29",
+          "title": "x",
+          "subsections": []
+        },
+        {
+          "id": "2.4",
+          "title": "3.8",
+          "subsections": []
+        },
+        {
+          "id": "6.4",
+          "title": "9.5",
+          "subsections": [],
+          "text": "15\n25\n38\n(mV/A/m)\n6"
+        },
+        {
+          "id": "0.48",
+          "title": "0.61",
+          "subsections": []
+        },
+        {
+          "id": "0.85",
+          "title": "1.10",
+          "subsections": []
+        },
+        {
+          "id": "1.55",
+          "title": "z",
+          "subsections": []
+        },
+        {
+          "id": "0.41",
+          "title": "0.55",
+          "subsections": []
+        },
+        {
+          "id": "0.80",
+          "title": "1.10",
+          "subsections": []
+        },
+        {
+          "id": "1.50",
+          "title": "r",
+          "subsections": []
+        },
+        {
+          "id": "0.155",
+          "title": "0.160",
+          "subsections": []
+        },
+        {
+          "id": "0.165",
+          "title": "0.170",
+          "subsections": []
+        },
+        {
+          "id": "0.175",
+          "title": "x",
+          "subsections": []
+        },
+        {
+          "id": "2.4",
+          "title": "3.8",
+          "subsections": []
+        },
+        {
+          "id": "6.4",
+          "title": "9.5",
+          "subsections": [],
+          "text": "15\n25\n38\n(mV/A/m)\n7"
+        },
+        {
+          "id": "0.43",
+          "title": "0.57",
+          "subsections": []
+        },
+        {
+          "id": "0.82",
+          "title": "1.10",
+          "subsections": []
+        },
+        {
+          "id": "1.50",
+          "title": "z",
+          "subsections": [],
+          "text": "Reference Methods Reference Methods\n3&4\n3&4\n(Enclosed in conduit (Enclosed in conduit\netc. in or on a wall)\netc. in or on a wall)"
+        },
+        {
+          "id": "0.41",
+          "title": "0.55",
+          "subsections": []
+        },
+        {
+          "id": "0.80",
+          "title": "1.10",
+          "subsections": []
+        },
+        {
+          "id": "1.50",
+          "title": "r",
+          "subsections": []
+        },
+        {
+          "id": "0.23",
+          "title": "0.24",
+          "subsections": []
+        },
+        {
+          "id": "0.24",
+          "title": "0.24",
+          "subsections": []
+        },
+        {
+          "id": "0.25",
+          "title": "x",
+          "subsections": []
+        },
+        {
+          "id": "2.4",
+          "title": "3.8",
+          "subsections": []
+        },
+        {
+          "id": "6.4",
+          "title": "9.5",
+          "subsections": [],
+          "text": "15\n25\n38\n(mV/A/m)\n8"
+        },
+        {
+          "id": "0.47",
+          "title": "0.60",
+          "subsections": []
+        },
+        {
+          "id": "0.84",
+          "title": "1.10",
+          "subsections": []
+        },
+        {
+          "id": "1.55",
+          "title": "z",
+          "subsections": [],
+          "text": "Reference Methods\n1 & 11\n(Flat and touching)"
+        }
+      ],
+      "text": "Voltage Drop (per ampere per meter):"
+    },
+    {
+      "id": "Three-Or-Four Cables,",
+      "title": "Three-Or-Four Cables,",
+      "subsections": []
+    },
+    {
+      "id": "Three Phase A.C",
+      "title": "Three Phase A.C",
+      "subsections": [
+        {
+          "id": "0.40",
+          "title": "0.55",
+          "subsections": []
+        },
+        {
+          "id": "0.80",
+          "title": "1.10",
+          "subsections": []
+        },
+        {
+          "id": "1.50",
+          "title": "r",
+          "subsections": []
+        },
+        {
+          "id": "0.31",
+          "title": "0.31",
+          "subsections": []
+        },
+        {
+          "id": "0.32",
+          "title": "0.32",
+          "subsections": []
+        },
+        {
+          "id": "0.32",
+          "title": "x",
+          "subsections": []
+        },
+        {
+          "id": "2.4",
+          "title": "3.8",
+          "subsections": []
+        },
+        {
+          "id": "6.4",
+          "title": "9.5",
+          "subsections": [],
+          "text": "15\n25\n38\n(mV/A/m)\n9"
+        },
+        {
+          "id": "0.51",
+          "title": "0.63",
+          "subsections": []
+        },
+        {
+          "id": "0.86",
+          "title": "1.15",
+          "subsections": []
+        },
+        {
+          "id": "1.55",
+          "title": "z",
+          "subsections": [],
+          "text": "Reference Method\n12\n(Spaced*)\nConductor Operating Temperature: 70 °C\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+        }
+      ]
+    },
+    {
+      "id": "Lampiran IV",
+      "title": "Lampiran IV",
+      "subsections": [],
+      "text": "JADUAL SUSUT VOLTAN (SINGLE CORE CABLE)"
+    },
+    {
+      "id": "(Table 4D1B)",
+      "title": "(Table 4D1B)",
+      "subsections": [],
+      "text": "Garis Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Lampiran V",
+      "title": "Lampiran V",
+      "subsections": [],
+      "text": "JADUAL KEUPAYAAN MEMBAWA ARUS (MULTICORE CABLE)"
+    },
+    {
+      "id": "(Table B.52.4 Iec 60364-5-52 2009)",
+      "title": "(Table B.52.4 Iec 60364-5-52 2009)",
+      "subsections": [],
+      "text": "Table B.52.4 - Current-Carrying Capacities in Amperes\nFor Methods of Installation in Table B.52.1 PVC Insulation, Three-Loaded Conductors / Copper or Aluminium Conductor Temperature: 70 °C, Ambient Temperature: 30 °C in Air, 20 °C in Ground\nInstallation Methods of Table B.52.1"
+    },
+    {
+      "id": "A1",
+      "title": "A1",
+      "subsections": []
+    },
+    {
+      "id": "A2",
+      "title": "A2",
+      "subsections": []
+    },
+    {
+      "id": "B1",
+      "title": "B1",
+      "subsections": []
+    },
+    {
+      "id": "B2",
+      "title": "B2",
+      "subsections": []
+    },
+    {
+      "id": "C",
+      "title": "C",
+      "subsections": []
+    },
+    {
+      "id": "D1",
+      "title": "D1",
+      "subsections": []
+    },
+    {
+      "id": "D2",
+      "title": "D2",
+      "subsections": [
+        {
+          "id": "13.5",
+          "title": "13",
+          "subsections": []
+        },
+        {
+          "id": "15.5",
+          "title": "15",
+          "subsections": []
+        },
+        {
+          "id": "17.5",
+          "title": "18",
+          "subsections": [],
+          "text": "19"
+        },
+        {
+          "id": "2.5",
+          "title": "18",
+          "subsections": []
+        },
+        {
+          "id": "17.5",
+          "title": "21",
+          "subsections": [],
+          "text": "20\n24\n24\n24\n4\n24\n23\n28\n27\n32\n30\n33\nNominal\nCross-Sectional\nArea of Conductor\nmm2\n1\nCopper"
+        },
+        {
+          "id": "1.5",
+          "title": "6",
+          "subsections": [],
+          "text": "31\n29\n36\n34\n41\n38\n41\n10\n42\n39\n50\n46\n57\n50\n54\n16\n56\n52\n68\n62\n76\n64\n70\n25\n73\n68\n89\n80\n96\n82\n92\n35\n89\n83\n110\n99\n119\n98\n110\n50\n108\n99\n134\n118\n144\n116\n130\n70\n136\n125\n171\n149\n184\n143\n162\n95\n164\n150\n207\n179\n223\n169\n193\n120\n188\n172\n239\n206\n259\n192\n220\n150\n216\n196\n262\n225\n299\n217\n246\n185\n245\n223\n296\n255\n341\n243\n278\n240\n286\n261\n346\n297\n403\n280\n320\n300\n328\n298\n394\n339\n464\n316\n359\nNote: The specifier has to consider also the load details, cable length, method of installation which are subjected to\nfurther derating.\n61\nr\n18\n62"
+        },
+        {
+          "id": "2.8",
+          "title": "1.75",
+          "subsections": []
+        },
+        {
+          "id": "1.25",
+          "title": "0.93",
+          "subsections": []
+        },
+        {
+          "id": "0.63",
+          "title": "0.46",
+          "subsections": [],
+          "text": "16\n25\n35\n50\n70\n95\nNote: Joint reference with cable manufacturer specification."
+        },
+        {
+          "id": "7.3",
+          "title": "4.4",
+          "subsections": [],
+          "text": "6\n10"
+        },
+        {
+          "id": "0.47",
+          "title": "0.63",
+          "subsections": []
+        },
+        {
+          "id": "0.93",
+          "title": "1.25",
+          "subsections": []
+        },
+        {
+          "id": "1.75",
+          "title": "0.155",
+          "subsections": []
+        },
+        {
+          "id": "0.160",
+          "title": "0.165",
+          "subsections": []
+        },
+        {
+          "id": "0.165",
+          "title": "0.170",
+          "subsections": [],
+          "text": "x"
+        },
+        {
+          "id": "2.8",
+          "title": "4.4",
+          "subsections": []
+        },
+        {
+          "id": "7.3",
+          "title": "18",
+          "subsections": []
+        },
+        {
+          "id": "2.5",
+          "title": "29",
+          "subsections": [],
+          "text": "(mV/A/m)\n11\n29"
+        },
+        {
+          "id": "1.5",
+          "title": "3",
+          "subsections": []
+        }
+      ],
+      "text": "2\n3\n4\n5\n6\n7\n8"
+    },
+    {
+      "id": "Two-Core Cables,",
+      "title": "Two-Core Cables,",
+      "subsections": []
+    },
+    {
+      "id": "Single Phase A.C",
+      "title": "Single Phase A.C",
+      "subsections": [],
+      "text": "11\n(mV/A/m)\n(mm )\n4\n2\n1\n2"
+    },
+    {
+      "id": "Conductor",
+      "title": "Conductor",
+      "subsections": []
+    },
+    {
+      "id": "Cross-Sectional",
+      "title": "Cross-Sectional",
+      "subsections": []
+    },
+    {
+      "id": "Area",
+      "title": "Area",
+      "subsections": []
+    },
+    {
+      "id": "Conductor",
+      "title": "Conductor",
+      "subsections": []
+    },
+    {
+      "id": "Cross-Sectional",
+      "title": "Cross-Sectional",
+      "subsections": []
+    },
+    {
+      "id": "Area",
+      "title": "Area",
+      "subsections": [
+        {
+          "id": "0.50",
+          "title": "0.65",
+          "subsections": []
+        },
+        {
+          "id": "0.94",
+          "title": "1.25",
+          "subsections": []
+        },
+        {
+          "id": "1.75",
+          "title": "z",
+          "subsections": []
+        },
+        {
+          "id": "0.41",
+          "title": "0.55",
+          "subsections": []
+        },
+        {
+          "id": "0.80",
+          "title": "1.10",
+          "subsections": []
+        },
+        {
+          "id": "1.50",
+          "title": "r",
+          "subsections": []
+        },
+        {
+          "id": "0.135",
+          "title": "0.140",
+          "subsections": []
+        },
+        {
+          "id": "0.140",
+          "title": "0.145",
+          "subsections": []
+        },
+        {
+          "id": "0.145",
+          "title": "x",
+          "subsections": []
+        },
+        {
+          "id": "2.4",
+          "title": "3.8",
+          "subsections": []
+        },
+        {
+          "id": "6.4",
+          "title": "9.5",
+          "subsections": [],
+          "text": "15\n25\n(mV/A/m)\n4"
+        }
+      ],
+      "text": "Voltage Drop (per ampere per meter):\nMulticore Armoured Insulated Cables\n(Copper Conductors)"
+    },
+    {
+      "id": "Three-Or-Four Cables,",
+      "title": "Three-Or-Four Cables,",
+      "subsections": []
+    },
+    {
+      "id": "Three Phase A.C",
+      "title": "Three Phase A.C",
+      "subsections": [
+        {
+          "id": "0.43",
+          "title": "0.57",
+          "subsections": []
+        },
+        {
+          "id": "0.81",
+          "title": "1.10",
+          "subsections": []
+        },
+        {
+          "id": "1.50",
+          "title": "z",
+          "subsections": [],
+          "text": "Conductor Operating Temperature: 70 °C\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+        }
+      ]
+    },
+    {
+      "id": "Lampiran VI",
+      "title": "Lampiran VI",
+      "subsections": []
+    },
+    {
+      "id": "Jadual Susut Voltan (Multicore Cable)",
+      "title": "Jadual Susut Voltan (Multicore Cable)",
+      "subsections": []
+    },
+    {
+      "id": "(Table 4D4B)",
+      "title": "(Table 4D4B)",
+      "subsections": [],
+      "text": "Garis Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Lampiran VII",
+      "title": "Lampiran VII",
+      "subsections": []
+    },
+    {
+      "id": "Contoh Pengiraan Susut Voltan",
+      "title": "Contoh Pengiraan Susut Voltan",
+      "subsections": []
+    },
+    {
+      "id": "(Voltage Drop)",
+      "title": "(Voltage Drop)",
+      "subsections": [],
+      "text": "Hitung susut voltan bagi suatu pemasangan yang dibekalkan melalui voltan 230 V dan saiz\nkabel yang digunakan adalah 16 mm2 jenis teras tunggal bersalut pvc digunakan dalam konduit\natau sesalur yang panjangnya adalah 23 m dan arus yang melalui pada beban adalah 33 A.\nPenyelesaian:\nCari nilai susut voltan dengan menggunakan saiz kabel dari Jadual di Lampiran IV lajur 3\nSaiz kabel = 16 mm2\nDaripada Jadual di Lampiran IV,\n�susut voltan = 2.8 mV/A/m\nVd =\nVd =\nMv x Ib x L"
+    },
+    {
+      "id": "1,000",
+      "title": "1,000",
+      "subsections": [],
+      "text": "2.8 x 33 x 23"
+    },
+    {
+      "id": "1,000",
+      "title": "1,000",
+      "subsections": [],
+      "text": "= 2.125 Volt\nSusut voltan pada kabel ini adalah 2.125 Volt apabila menggunakan kabel 16 mm2. Oleh itu,\nsusut voltan ini tidak melebihi 3% bagi beban lampu serta 5% untuk beban lain-lain daripada\nnilai voltan bekalan seperti yang ditetapkan. Maka saiz yang paling sesuai adalah 16 mm2.\n63\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Lampiran VIII",
+      "title": "Lampiran VIII",
+      "subsections": [],
+      "text": "BORANG G (PERAKUAN PENYELIAAN DAN PENYIAPAN)"
+    },
+    {
+      "id": "Borang G",
+      "title": "Borang G",
+      "subsections": [],
+      "text": "( Peraturan 14 )"
+    },
+    {
+      "id": "Akta Bekalan Elektrik 1990",
+      "title": "Akta Bekalan Elektrik 1990",
+      "subsections": []
+    },
+    {
+      "id": "Perakuan Penyeliaan Dan Penyiapan",
+      "title": "Perakuan Penyeliaan Dan Penyiapan",
+      "subsections": [],
+      "text": "Kepada: ..................................................................................................................................................................................\n(Nama dan alamat pemunya) (lihat nota sebelah)\nBAHAGIAN 1: PERINCIAN PEPASANGAN\nPelanggan : .............................................................................................................................................................................\nAlamat :"
+    },
+    {
+      "id": "..............................................................................................................................................................................",
+      "title": "..............................................................................................................................................................................",
+      "subsections": []
+    },
+    {
+      "id": "..............................................................................................................................................................................",
+      "title": "..............................................................................................................................................................................",
+      "subsections": [],
+      "text": "Pepasangan ini ialah suatu Pepasangan Baharu / Tambahan / Pengubahan kepada Pepasangan yang sedia ada*\nBAHAGIAN 2: PENYELIAAN DAN PENYIAPAN\nSaya, orang kompeten yang bertanggungjawab (sebagaimana yang ditunjukkan oleh tandatangan saya di bawah) bagi\npenyeliaan dan penyiapan kerja elektrik dalam pepasangan di atas dalam Bahagian 1, yang butir-butirnya seperti yang\ndiperihalkan dalam Jadual Lukisan dalam Bahagian 3, MEMPERAKUI bahawa kerja tersebut yang baginya saya\nbertanggungjawab adalah sepanjang yang saya ketahui dan percaya mengikut Peraturan-Peraturan Elektrik 1994.\nTakat liabiliti penandatangan adalah terhad kepada kerja elektrik yang diperihalkan di atas dalam Bahagian 1 sebagai\nsubjek Perakuan ini.\nBagi penyeliaan dan penyiapan kerja elektrik: ....................................................................................................................."
+    },
+    {
+      "id": "................................................................................................................................................................................................",
+      "title": "................................................................................................................................................................................................",
+      "subsections": [],
+      "text": "Nama (Dengan Huruf Besar): ................................................................................................................................................"
+    },
+    {
+      "id": "................................................................................................................................................................................................",
+      "title": "................................................................................................................................................................................................",
+      "subsections": [],
+      "text": "Perakuan Kekompetenan: Pendawai Sekatan Fasa Tunggal / Fasa Tiga*\nPerakuan Kekompetenan No.: ...............................................................................................................................................\nBagi Pihak: .............................................................................................................................................................................\nAlamat: ..................................................................................................................................................................................."
+    },
+    {
+      "id": "................................................................................................................................................................................................",
+      "title": "................................................................................................................................................................................................",
+      "subsections": [],
+      "text": "Tandatangan:\t\t\t\t\t\tTarikh:\n64\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\nBAHAGIAN 3: JADUAL LUKISAN\nSetiap lukisan yang disenaraikan di bawah hendaklah mengandungi aku janji yang berikut:\nSaya, dengan ini, mengesahkan bahawa kerja elektrik yang disenaraikan dalam lukisan ini telah saya selia dan\nsiapkan mengikut Peraturan-Peraturan Elektrik 1994.\nNama: ………………………………………………….....................…..……………………………………………...\nPendawai Sekatan Fasa Tunggal / Fasa Tiga*: ……………..………………....................…………………………….\nJenis Perakuan Kekompetenan: …………………………………………....................………………………………..\nPerakuan Kekompetenan No.: ………………………………………...................…………………………………….\nBagi Pihak: ………………………………………………………....................………………………………………..\nAlamat: ……………………………………………………....................………………………………………………\n…………………………………………………….....................……………………………………………………….\nTandatangan:\t\t\t\t\t\tTarikh:\n(a)\n(b)\n(c)\n(d)\nNOTA:\n1. Perakuan Penyeliaan dan Penyiapan yang dikehendaki oleh Peraturan 12 Peraturan-Peraturan Elektrik 1994 hendaklah\ndibuat dan ditandatangani oleh orang kompeten berkenaan dengan penyeliaan dan penyiapan kerja elektrik.\n2. Perakuan ini akan menunjukkan tanggungjawab bagi penyeliaan dan penyiapan kerja elektrik, sama ada yang berhubungan\ndengan pepasangan baharu atau kerja selanjutnya pada pepasangan yang sedia ada.\n3. Apabila membuat dan menandatangani perakuan bagi pihak syarikat atau entiti perniagaan yang lain, individu hendaklah\nmenyatakan orang yang diwakilinya.\n4. Perakuan tambahan mungkin dikehendaki sebagai penjelasan bagi kerja elektrik yang lebih besar atau rumit.\n5. Tandatangan yang diturunkan ialah tandatangan orang kompeten yang diberikuasa oleh syarikat yang melaksanakan kerja\npenyeliaan dan penyiapan kerja elektrik.\n6. Nombor mukasurat bagi setiap helaian hendaklah ditunjukkan bersama-sama dengan jumlah bilangan mukasurat yang\nterlibat.\n7. Pemunya atau pengurusan pepasangan hendaklah mengemukakan Perakuan Penyeliaan dan Penyiapan dan Perakuan\nUjian (Borang G dan H jadual pertama) kepada pemegang lessen atau pihak berkuasa bekalan, mengikut mana-mana yang\nberkenaan, bagi menerima tenaga daripada pemegang lesen atau pihak berkuasa bekalan.\n8. Apabila diterima Perakuan tersebut dalam perenggan (7) di atas, pemegang lessen atau pihak berkuasa bekalan hendaklah\nmulai dari itu membekalkan tenaga seperti yang diminta oleh pemunya atau pengurusan pepasangan.\n*Potong mana-mana yang tidak berkenaan\n65\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Lampiran IX",
+      "title": "Lampiran IX",
+      "subsections": []
+    },
+    {
+      "id": "Borang H (Perakuan Ujian)",
+      "title": "Borang H (Perakuan Ujian)",
+      "subsections": []
+    },
+    {
+      "id": "P.U. (A) 38",
+      "title": "P.U. (A) 38",
+      "subsections": []
+    },
+    {
+      "id": "Borang H",
+      "title": "Borang H",
+      "subsections": [],
+      "text": "(Peraturan 14)"
+    },
+    {
+      "id": "Akta Bekalan Elektrik 1990",
+      "title": "Akta Bekalan Elektrik 1990",
+      "subsections": []
+    },
+    {
+      "id": "Perakuan Ujian",
+      "title": "Perakuan Ujian",
+      "subsections": [],
+      "text": "Kepada: ..................................................................................................................................................................................\n(Nama dan alamat pemunya) (lihat nota sebelah)\nBAHAGIAN 1: PERINCIAN PEPASANGAN\nPelanggan : .............................................................................................................................................................................\nAlamat :"
+    },
+    {
+      "id": "..............................................................................................................................................................................",
+      "title": "..............................................................................................................................................................................",
+      "subsections": []
+    },
+    {
+      "id": "..............................................................................................................................................................................",
+      "title": "..............................................................................................................................................................................",
+      "subsections": [],
+      "text": "Pepasangan ini ialah suatu Pepasangan Baharu / Tambahan / Pengubahan kepada Pepasangan yang sedia ada*\nBAHAGIAN 2: UJIAN\nSaya, orang kompeten yang bertanggungjawab (sebagaimana yang ditunjukkan oleh tandatangan saya di bawah)\nbagi ujian pepasangan dalam Bahagian 1, yang butir-butirnya seperti yang diperihalkan dalam Jadual Lukisan dalam\nBahagian 3 dan Jadual Keputusan Ujian Dalam Bahagian 4, MEMPERAKUI bahawa pepasangan di atas yang baginya\nsaya bertanggungjawab, adalah sepanjang yang saya ketahui dan percayai, mengikut Peraturan-Peraturan Elektrik 1994\ndan bahawa pepasangan tersebut di atas telah siap dan selamat untuk menerima tenaga daripada atau diberi tenaga oleh\npemegang lessen atau pihak berkuasa bekalan, mengikut mana-mana yang berkenaan.\nTakat liabiliti penandatangan adalah terhad kepada pepasangan yang diperihalkan di atas dalam bahagian 1 sebagai\nsubjek Perakuan ini.\nBagi Ujian Pepasangan: ………………………………………....................……………………………………………….\nNama (Dengan Huruf Besar): ……………………....................……………………………………………………………\nJenis Perakuan Kekompetenan: ……….....................………………………………………………………………………\nPerakuan Kekompetenan No: ……………....................……………………………………………………………………\nBagi Pihak.: ……………………......................……………………………………………………………………………..\nAlamat: …………………....................…………………………………………………………………………………….."
+    },
+    {
+      "id": "................................................................................................................................................................................................",
+      "title": "................................................................................................................................................................................................",
+      "subsections": [],
+      "text": "Tandatangan:\t\t\t\t\t\tTarikh:\n66\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik\nBAHAGIAN 3: JADUAL LUKISAN\nSetiap lukisan yang disenaraikan di bawah hendaklah mengandungi akujanji yang berikut:\nSaya, dengan ini, mengesahkan bahawa kerja elektrik yang disenaraikan dalam Lukisan ini telah saya uji mengikut\nPeraturan-Peraturan Elektrik 1994.\nNama: ………………………………………….....................………………………………………………………….\nJenis Perakuan Kekompetenan: ………………………….....................……………………………………………….\nPerakuan Kekompetenan No.: ………………………....................……………………………………………………\nBagi Pihak: …………………………………………....................…………………………………………………….\nAlamat: ………………………………………....................……………………………………………………………\n…………………………………………………….....................……………………………………………………….\nTandatangan:\t\t\t\t\t\tTarikh:\n(a)\n(b)\n(c)\nBAHAGIAN 4: JADUAL KEPUTUSAN UJIAN\n(a)\n(b)\n(c)\nNOTA:\n1. Perakuan ujian yang dikehendaki oleh Peraturan 13 Peraturan-Peraturan Elektrik 1994 hendaklah dibuat dan ditandatangani\noleh orang kompeten berkenaan dengan ujian pepasangan.\n2. Perakuan ini akan menunjukkan tanggungjawab bagi menguji pepasangan, sama ada berhubungan dengan pepasangan\nbaharu atau kerja selanjutnya kepada pepasangan yang sedia ada.\n3. Apabila membuat dan menandatangani perakuan bagi pihak syarikat atau entiti perniagaan yang lain, individu hendaklah\nmenyatakan orang yang diwakili.\n4. Perakuan tambahan mungkin dikehendaki sebagai penjelasan bagi kerja elektrik yang lebih besar atau rumit.\n5. Tandatangan yang diturunkan ialah tandatangan orang kompeten yang diberikuasa oleh syarikat yang melaksanakan kerja\nmenguji pepasangan.\n6. Nombor mukasurat bagi setiap helaian sepatutnya ditunjukkan bersama-sama dengan jumlah bilangan mukasurat yang\nterlibat.\n7. Pemunya atau pengurusan pepasangan hendaklah mengemukakan Perakuan Penyeliaan dan Penyiapan dan Perakuan\nUjian (Borang G dan H, Jadual Pertama) kepada pemegang lesen atau pihak berkuasa bekalan, mengikut mana-mana yang\nberkenaan, bagi menerima tenaga daripada pemegang lesen atau pihak berkuasa bekalan.\n8. Apabila diterima Perakuan tersebut dalam perenggan (7) di atas, pemegang lesen atau pihak berkuasa bekalan hendaklah\nmulai dari ini membekalkan tenaga seperti yang diminta oleh pemunya atau pengurusan pepasangan.\n*Potong mana-mana yang tidak berkenaan\n67\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Lampiran X",
+      "title": "Lampiran X",
+      "subsections": []
+    },
+    {
+      "id": "Simbol",
+      "title": "Simbol",
+      "subsections": [],
+      "text": "Bil.\nSimbol\nKeterangan"
+    },
+    {
+      "id": "1",
+      "title": "Bekalan Satu Fasa (1 Fasa)",
+      "subsections": []
+    },
+    {
+      "id": "2",
+      "title": "Bekalan Tiga Fasa (3 Fasa)",
+      "subsections": []
+    },
+    {
+      "id": "3",
+      "title": "Bekalan Masuk (Incoming Supply)",
+      "subsections": []
+    },
+    {
+      "id": "4",
+      "title": "Pembumian (Earthing)",
+      "subsections": []
+    },
+    {
+      "id": "5",
+      "title": "Jangka Kilowatt Jam",
+      "subsections": []
+    },
+    {
+      "id": "6",
+      "title": "Pemutus Litar Kenit / Pemutus Litar Kotak Beracu (MCB / MCCB)",
+      "subsections": []
+    },
+    {
+      "id": "7",
+      "title": "Peranti Arus Baki (PAB / RCD)",
+      "subsections": []
+    },
+    {
+      "id": "8",
+      "title": "Unit Pepotong (Cut Out Fuse)",
+      "subsections": []
+    },
+    {
+      "id": "9",
+      "title": "Alat Perlindungan Voltan Pusuan (SPD)",
+      "subsections": []
+    },
+    {
+      "id": "10",
+      "title": "Fius (Fasa Hidup)",
+      "subsections": []
+    },
+    {
+      "id": "11",
+      "title": "Penghubung (Fasa Neutral)",
+      "subsections": [],
+      "text": "68\nGaris Panduan Pendawaian Elektrik Pepasangan Domestik"
+    },
+    {
+      "id": "Maklumat Perhubungan Suruhanjaya Tenaga",
+      "title": "Maklumat Perhubungan Suruhanjaya Tenaga",
+      "subsections": []
+    },
+    {
+      "id": "Ibu Pejabat",
+      "title": "Ibu Pejabat",
+      "subsections": [],
+      "text": "Suruhanjaya Tenaga (Energy Commission)\nNo. 12, Jalan Tun Hussein, Presint 2, 62100 Putrajaya, Malaysia\nT: (603) 8870 8500\nF: (603) 8888 8637\nwww.st.gov.my"
+    },
+    {
+      "id": "Pejabat",
+      "title": "Pejabat",
+      "subsections": []
+    },
+    {
+      "id": "Kawasan",
+      "title": "Kawasan",
+      "subsections": []
+    },
+    {
+      "id": "Alamat",
+      "title": "Alamat",
+      "subsections": [],
+      "text": "TELEFON & FAKS\nPulau Pinang,\nKedah & Perlis\nTingkat 10, Bangunan KWSP\n13700 Seberang Jaya, Butterworth\nPulau Pinang\nT : 04-398 8255\nF : 04-390 0255\nPerak\nTingkat 1, Bangunan KWSP\nJalan Greentown, 30450 Ipoh, Perak\nT : 05-253 5413\nF : 05-255 3525\nKelantan &\nTerengganu\nTingkat 6, Bangunan KWSP\nJalan Padang Garong,\n15000 Kota Bharu, Kelantan\nT : 09-748 7390\nF : 09-744 5498\nPahang\nTingkat 7, Menara Zenith, Jalan Putra\nSquare 6, 25200 Kuantan, Pahang\nT : 09-514 2803\nF : 09-514 2804\nSelangor, Kuala\nLumpur &\nPutrajaya\nTingkat 10, Menara PKNS\nNo. 17, Jalan Yong Shook Lin,\n46050 Petaling Jaya, Selangor\nT : 03-7955 8930\nF : 03-7955 8939\nJohor\nSuite 18A, Aras 18, Menara ANSAR 65\nJalan Trus, 80000 Johor Bharu, Johor\nT : 07-224 8861\nF : 07-224 9410\nNegeri\nSembilan &\nMelaka\nTingkat 3, Wisma Perkeso,\nJalan Persekutuan, MITC, 75450 Ayer Keroh,\nMelaka\nT : 06-231 9594\nF : 06-231 9620\nLabuan\nBeroperasi dari Pejabat Kawasan berikut mulai\n1 Januari 2024 sehingga dimaklumkan kelak:\nT : 06-231 9594\nF : 06-231 9620\nTingkat 3, Wisma PERKESO\nJalan Persekutuan, MITC\n75450 Ayer Keroh"
+    },
+    {
+      "id": "Melaka",
+      "title": "Melaka",
+      "subsections": [],
+      "text": "69"
+    },
+    {
+      "id": "Nota",
+      "title": "Nota",
+      "subsections": []
+    }
+  ],
+  "preamble": []
+}
