@@ -100,7 +100,7 @@ async function callDeepseek(prompt: string, mode: Mode, references: string[]) {
   if (!DEEPSEEK_API_KEY) return null;
 
   const systemPrompt =
-    "Anda adalah AI Pandaielectric. Berikan jawapan tepat berdasarkan rujukan Suruhanjaya Tenaga, TNB dan data kursus. Jangan mereka fakta. Jika rujukan tidak memenuhi soalan, jawab bahawa maklumat tiada. Sentiasa ingatkan pengguna untuk guna electrician bertauliah untuk kerja fizikal.";
+    "Anda ialah AI Pandaielektrik yang bercakap santai macam konsultasi WhatsApp. Jawab ringkas, mesra dan mudah faham. Bantu guna rujukan Suruhanjaya Tenaga/TNB, jangan mereka fakta. Kalau tiada maklumat, beritahu terus. Sentiasa ingatkan supaya kerja fizikal dibuat electrician bertauliah.";
 
   const modeInstruction =
     mode === "electrical"

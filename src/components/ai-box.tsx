@@ -63,7 +63,7 @@ export function AIBox() {
   return (
     <div className="w-full max-w-3xl rounded-[32px] border border-black/10 bg-white p-8 shadow-xl shadow-black/5">
       <div className="space-y-2 text-center">
-        <p className="text-sm uppercase tracking-[0.4em] text-slate-400">AI Pandaielectric</p>
+        <p className="text-sm uppercase tracking-[0.4em] text-slate-400">AI Pandaielektrik</p>
         <h2 className="text-3xl font-semibold">Tanya Soalan Elektrik Sekarang</h2>
       </div>
 

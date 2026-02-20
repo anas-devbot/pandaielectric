@@ -4,14 +4,13 @@ import type { Dispatch, SetStateAction } from "react";
 
 type Mode = "electrical" | "training";
 
-const MODES: Record<Mode, { label: string; description: string }> = {
+const MODES: Record<Mode, { label: string; description?: string }> = {
   electrical: {
     label: "🔧 Masalah Elektrikal",
     description: "Panduan keselamatan & rujukan ST",
   },
   training: {
     label: "🎓 Tentang Kursus",
-    description: "Info PW2, PW4 & laluan SKM",
   },
 };
 
@@ -35,9 +34,11 @@ export function ModeSelector({ value, onChange }: ModeSelectorProps) {
           }`}
         >
           <p className="text-sm font-semibold">{MODES[mode].label}</p>
-          <p className={`text-xs ${value === mode ? "text-white/80" : "text-slate-500"}`}>
-            {MODES[mode].description}
-          </p>
+          {MODES[mode].description ? (
+            <p className={`text-xs ${value === mode ? "text-white/80" : "text-slate-500"}`}>
+              {MODES[mode].description}
+            </p>
+          ) : null}
         </button>
       ))}
     </div>

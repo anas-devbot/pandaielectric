@@ -6,13 +6,13 @@ export default function Home() {
     <div className="min-h-screen bg-white">
       <div className="mx-auto flex max-w-4xl flex-col items-center gap-4 px-4 py-12 text-center">
         <Image
-          src="/pandaielectric-logo-light.jpg"
-          alt="Logo Pandaielectric"
+          src="/pandaielektrik-logo-light.jpg"
+          alt="Logo Pandaielektrik"
           width={140}
           height={140}
           priority
         />
-        <h1 className="text-4xl font-semibold text-black">Pandaielectric</h1>
+        <h1 className="text-4xl font-semibold text-black">Pandaielektrik</h1>
         <p className="max-w-2xl text-base text-slate-500">
           Rujukan Elektrik & Latihan Selaras Garis Panduan Suruhanjaya Tenaga
         </p>

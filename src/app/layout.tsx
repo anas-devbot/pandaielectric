@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Pandaielectric | Rujukan Elektrik & Latihan",
+  title: "Pandaielektrik | Rujukan Elektrik & Latihan",
   description:
     "Tanya soalan elektrik atau laluan kursus PW2/PW4 berpandukan Garis Panduan Suruhanjaya Tenaga.",
 };
