@@ -67,20 +67,23 @@ function findRelevantPassages(question: string) {
     .map((item) => item.passage);
 }
 
-const TRAINING_SUMMARY = `Kursus Online Elektrik (2 hari) – RM80 sahaja.
-Apa yang dipelajari:
-• Drawing pendawaian (layout & skematik)
-• Wiring rumah (lampu, soket, kipas, asas DB)
-• Maintenance & baiki kerosakan asas
-Kelebihan:
-• Video + nota mudah faham, boleh ulang tengok
-• Sesuai zero/beginner, ikut kerja tapak, tak perlu matematik
-Tarikh terkini: Siri 1 pada 27 & 28 Februari 2026 (tempat terhad)
-Join WhatsApp group: https://chat.whatsapp.com/ImxI9VVOvY28I8d3ClqoDp?mode=gi_t
-Hubungi/PM WhatsApp: 013-365 5715`; 
+const TRAINING_SUMMARY = `KURSUS 1 – Kursus Online Pendawaian Elektrik (2 hari)
+Tarikh intake 2026: 28 Feb & 1 Mac • 23 & 24 Mei • 25 & 26 Julai • 26 & 27 Sept • 14 & 15 Nov
+Silibus selaras SKM 2: Electrical drawing, wiring rumah, maintenance, single-phase starter motor
+Format: Teori online + tugasan amali DIY di rumah (optional, serah video kepada tutor)
+Sijil: Kehadiran untuk semua peserta, sijil khusus bagi yang hantar assignment/amali
+Support: Nota PDF, video rakaman, grup WhatsApp, bimbingan mentor & AI selepas kursus selama 2 hari
+Pendaftaran & pertanyaan: WhatsApp 013-365 5715`; 
+
+const TRAINING_COACHING = `KURSUS 2 – Kursus Intensif Persediaan SKM (Program PPT/Coaching)
+Tempoh: 3 bulan, gabung Google Meet + kelas fizikal + on-job training
+Sijil: Sijil kursus, pengesahan on-job training & buku log
+Yuran: RM600 (bayaran termasuk coaching dan pemantauan mentor)
+Tarikh: Open—ikut temujanji, slot dijadual secara personal bersama mentor
+Hubungi WhatsApp 013-365 5715 untuk booking slot & semak syarat`; 
 
 function buildTrainingEntries() {
-  return [TRAINING_SUMMARY];
+  return [TRAINING_SUMMARY, TRAINING_COACHING];
 }
 
 async function logToMake(payload: Record<string, unknown>) {
