@@ -24,7 +24,7 @@ export default function Home() {
 
       <div className="mx-auto max-w-3xl px-4 pb-6">
         <Image
-          src="/course-promo.jpg"
+          src="/course-promo.jpeg"
           alt="Poster Kursus Elektrik"
           width={1143}
           height={768}
