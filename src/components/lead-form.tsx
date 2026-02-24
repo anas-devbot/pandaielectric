@@ -3,10 +3,9 @@
 import { FormEvent, useState } from "react";
 
 const programOptions = [
-  "PW2 Fast Track",
-  "PW4 Upgrade",
+  "Fast Track",
+  " Upgrade",
   "SKM Tahap 1-3",
-  "Renewal CPD",
 ];
 
 type FormState = "idle" | "submitting" | "success" | "error";
