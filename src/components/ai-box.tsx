@@ -78,7 +78,7 @@ export function AIBox() {
           placeholder={
             mode === "electrical"
               ? "Contoh: Kenapa MCB sering trip bila pasang water heater?"
-              : "Contoh: Berapa lama tempoh latihan PW2?"
+              : "Contoh: Berapa lama tempoh latihan?"
           }
           rows={4}
           className="w-full rounded-2xl border border-black/10 bg-white px-4 py-3 text-base text-black placeholder:text-slate-500 focus:border-black focus:outline-none"
