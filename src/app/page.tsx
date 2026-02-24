@@ -82,7 +82,7 @@ export default function Home() {
 
       <div className="mx-auto flex max-w-3xl flex-col gap-3 px-4 pb-12 text-center sm:flex-row sm:items-center sm:justify-center">
         <a
-          href="https://forms.gle/wvNnYVs9eGgV3DNcA"
+          href="https://forms.gle/X5cHpqv8vPxYdxHw9"
           target="_blank"
           rel="noreferrer"
           className="rounded-2xl bg-black px-6 py-3 text-base font-semibold text-white shadow-lg shadow-black/20 transition hover:bg-black/90"
