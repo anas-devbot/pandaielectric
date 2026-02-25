@@ -90,7 +90,7 @@ export default function Home() {
           🔵 Daftar Kursus
         </a>
         <a
-          href="https://www.tiktok.com/@saifulhyq"
+          href="https://www.facebook.com/AHZTeknikSkillTrainingCentre"
           target="_blank"
           rel="noreferrer"
           className="rounded-2xl border border-black/10 bg-white px-6 py-3 text-sm font-semibold text-black shadow-sm transition hover:bg-black/5"
@@ -98,7 +98,7 @@ export default function Home() {
           ⓕ Facebook Kami
         </a>
         <a
-          href="https://www.facebook.com/AHZTeknikSkillTrainingCentre"
+          href="https://www.tiktok.com/@saifulhyq"
           target="_blank"
           rel="noreferrer"
           className="rounded-2xl border border-black/10 bg-white px-6 py-3 text-sm font-semibold text-black shadow-sm transition hover:bg-black/5"
