@@ -95,8 +95,17 @@ export default function Home() {
           rel="noreferrer"
           className="rounded-2xl border border-black/10 bg-white px-6 py-3 text-sm font-semibold text-black shadow-sm transition hover:bg-black/5"
         >
+          ▶️ Facebook Kami
+        </a>
+        <a
+          href="https://www.facebook.com/AHZTeknikSkillTrainingCentre"
+          target="_blank"
+          rel="noreferrer"
+          className="rounded-2xl border border-black/10 bg-white px-6 py-3 text-sm font-semibold text-black shadow-sm transition hover:bg-black/5"
+        >
           ▶️ Follow TikTok Kami
         </a>
+
       </div>
 
       <p className="pb-10 text-center text-xs text-slate-500">
