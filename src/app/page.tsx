@@ -103,7 +103,7 @@ export default function Home() {
           rel="noreferrer"
           className="rounded-2xl border border-black/10 bg-white px-6 py-3 text-sm font-semibold text-black shadow-sm transition hover:bg-black/5"
         >
-          ▶️ Follow TikTok Kami
+          ▶️ TikTok Kami
         </a>
 
       </div>
